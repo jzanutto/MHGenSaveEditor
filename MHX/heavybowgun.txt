@@ -1,0 +1,80 @@
+1 || Petrified Cannon || Scholarly Cannon
+2 || Queen's Longfire || Queen's Farflier
+3 || Obsidian Cannon || Relic Cannon
+4 || Griffin's Charge || Seltas Cannon
+5 || Crab Buster || Heavy Crab Buster
+6 || Piercing Crab || Ceanataur Blaster
+7 || Spheniscine Slayer || Spheniscine Ruler
+8 || Hidden Gambit || Baleful Night
+9 || Anteka Burst || Anteka Blaster
+10 || Rapidcaster || Cyclecaster
+11 || Carom Shot || Rebound Shot
+12 || Agnaboom || Agna Hellblazer
+13 || Sand Diver || Desert Diver
+14 || Pressurized Plaser || Pluripotent Plaser
+15 || Arbalest || Great Arbalest
+16 || Tigrex Howl || Tigrex Skull
+17 || Yian Kut-Ku Cannon || Super Kut-Ku Cannon
+18 || Raven Heirloom || Wolf Heirloom
+19 || Binary Blaster || Swoon Cannon
+20 || Tankmage || Tanksorcerer
+21 || Icethrower || Iceblaster
+22 || Quickcaster || Quick Quiver
+23 || Injector Cannon || Zect Injector
+24 || Flechette Gun || Honeycomber
+25 || Meteor Bazooka || Meteor Cannon
+26 || Meteor Buster || Meteor Shower
+27 || Striker's Bowgun || Elite Bowgun
+28 || Bite Blaster || Biting Blast
+29 || Sayyad Cannon || Insurrection Cannon
+30 || Seditious Cannon || Furia Sedition
+31 || Bone Shooter || Bone Buster
+32 || Dios Cannon || Atom Cannon
+33 || Demolition Cannon || Haize Demolisher
+34 || Type 46 Gunflage || Nibelflage Prototype
+35 || Lagia Blitz || Thunderblitz Cannon
+36 || Usurper's Tremor || Despot's Paroxysm
+37 || Marino Burst || Marino Cannon
+38 || Arzuros Gun || Arzuros Fishergun
+39 || Straw Drumcannon || Shirabeo
+40 || Monteverde || Peaksmasher
+41 || Shooting Star || Great Meteor
+42 || Wyvern Blaster || Wyvern Shocker
+43 || Giant's Cannon || Giant's Rocket
+44 || Cirrus Blaster || Mountainous Roar
+45 || Burning Igna || Glavenus Scorcher
+46 || Tödlicher Abzug || Ableben Abzug
+47 || Le Désastre || La Foi
+48 || Daora's Delphinidae || Daora Grande
+49 || Kamaeleon || Veiled Kamaeleon
+50 || Teostra's Artillery || Teostra's Flames
+51 || Skeletal Cannon || Total Absolution
+52 || Cosmic Cannon || Vizvi Cannon
+53 || Gluttonous Cannon || Dark Devourer
+54 || Endless Famine || Dark Famine
+55 || Akantor Cannon || Akantor Skysounder
+56 || Ukanlos Cannon || Ukanlos Skyblaster
+57 || Chaos Wing || Altheos Aetheria
+58 || Ill Omen || Celestial Tempest
+59 || Moofire Cannon || Mooflame Cannon
+60 || Hero Blaster || Master Blaster
+61 || Black Cannon || Onyx Cannon
+62 || Yukumo Bowgun || Yukumo Cannon
+63 || Yukumo Puregun || Yukumo Spiritgun
+64 || Ladybug Cannon || Ladybug Mortar
+65 || Carrozza Bazooka || Cendrillon
+66 || Aquamatic "Needler" || Aquamatic "Firelash"
+67 || Felyne Bowgun || Felyne Cannon
+68 || Lunastra's Zeal || Lunastra's Roar
+69 || Crimson Bowgun || Crimson Cannon
+70 || Eeostopen Burst || Eeostopen Cannon
+71 || Stonefist Buster || Ebon Stonefist Buster
+72 || Dreadqueen Shot || Dreadqueen Blaster
+73 || Demonic Cannon || Chthonic Cannon
+74 || Silverwind Sniper || Dawn's Rage
+75 || Grobo Shot || Grobo Barzeta
+76 || Cahoe Shot || Deadeye Cahoe
+77 || Lord's Shot || Lord's Roar
+78 || Rudra's Howl || Grimclaw Cannon
+79 || Ashen Blaster || Ashen Eclipse
+80 || Pirate Cannon J || Buccaneer Cannon J

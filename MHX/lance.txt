@@ -1,0 +1,100 @@
+1 || Petrified Lance || Scholarly Lance
+2 || Obsidian Lance || Obsidian Partisan
+3 || Cross Coloris || Duke Dormir
+4 || Incessant Raven || Incessant Wolf
+5 || Incessant Evil || Garuga Incessance
+6 || Twistcrawl || Writhing Crawler
+7 || Twisting Crawler || Paratwist Crawler
+8 || Boros Spear || Temblor Illboros
+9 || Naag Serpentblade || Devta Serpentblade
+10 || Iron Lance || Millennial Lance
+11 || Squire Spear || Knight Spear
+12 || Estoc || Valhalla
+13 || Paladin Lance || Rampart
+14 || Babel Spear || Elder Babel Spear
+15 || Growling Wyvern || Roaring Wyvern
+16 || Tiger Stinger || Tigrex Lance
+17 || Lava Cone || Magma Pike
+18 || Thane Lance || Knight Lance
+19 || Acrus Lance || High Acrus Lance
+20 || Doris Spear || Stormy Doris
+21 || Steel Knight's Pike || Grayburg Javelin
+22 || Dragon Rider Spear || Dragoon's Gáe Bulg
+23 || Drill Lance || Gigadrill Lance
+24 || Hidden Stinger || Night Rains Black
+25 || Spiked Spear || Spiked Javelin
+26 || Aqua Spear || Stream Spear
+27 || Rockabye Spear || Requiem Spear
+28 || Thunderspear || Thunderlance
+29 || Type 43 Dragonlance || Drakenwerfer
+30 || Bone Lance || Hard Bone Lance
+31 || Longhorn Spear || Longtusk Spear
+32 || Giant Tusk || Brutal Tusk
+33 || Harbah Lance || Turbulent Lance
+34 || Seditious Lance || Hadad Sedition
+35 || Barbarian Tusk || Barbarian Fang
+36 || Barbaroi Tusk || Ogre Tusk
+37 || Bone Claw Lance || Red Lord Lance
+38 || Ceanataur Stinger || Ceanataur Piercer
+39 || Volvi Stroke || Volvi Sweep
+40 || Ploshasta || Rhenohasta
+41 || Spiral Heat || Agnaktor Firelance
+42 || Usurper's Coming || Despot's Cacophony
+43 || Ludroth Bone Spear || Ludroth Impaler
+44 || Spiral Lance || Spiral Splash
+45 || Dark Lance || Dark Spear
+46 || Wild Boar Lance || Bulldrome Spear
+47 || Demon Lance || Great Demon Lance
+48 || Demonlord Spear || Demonlord Rajang
+49 || Expelger || Expelgorer
+50 || Expelgouger || Rexpelgouger
+51 || Carnivicious || Carnivile
+52 || Omnivicious || Omnivoracious
+53 || Dios Stinger || Bombastic Stinger
+54 || Demolition Lance || Albrach Demolisher
+55 || Red Tail || Spear of Prominence
+56 || Silver Prominence || Sol Prominence
+57 || Verdant Tail || Lightning Spear
+58 || Giant's Jouster || Colossus's Jouster
+59 || Hana mo Hana Nare || Kimi ga Kiru
+60 || Svarog Blazer || Glavenus Granat
+61 || Eiferschild || Fieberschild
+62 || L'Égide || Le Sage
+63 || Grief Lance || Fiendish Tower
+64 || Skeletal Lance || Infernal Lance
+65 || Astral Capricorn || Furious Capricorn
+66 || Ukanlos Calamity || Ukanlos Skysweeper
+67 || Alatreon Lance || Alatreon Gleam
+68 || Ominous Cloud || Heavenly Insight
+69 || Rusted Lance || Tarnished Lance
+70 || Undertaker || High Undertaker
+71 || Icesteel Spear || Daora's Fang
+72 || Worn Spear || Weathered Spear
+73 || Skyscraper || Skysunderer
+74 || Teostra's Howl || Teostra's Roar
+75 || Blue Crater || Doom Crown
+76 || Black Lance || Chrono Lance
+77 || Yukumo Lance || Yukumo Stinger
+78 || Yukumo Purelance || Godly Lance
+79 || Fondue Lance || Gruyère Lance
+80 || Blimp Lance || Aeroprio
+81 || Frontrider Lance || Warcry Lance
+82 || Native Spear || Primal Spear
+83 || Vacuum Striker || Hyper Vacuum
+84 || Fragrance || Classy Fragrance
+85 || Sharq Byte || Sharq Attaq
+86 || Plegis Needle || Mighty Plegis
+87 || Guardian Lance || Aged Holy Lance
+88 || Alacrantze || Scorpion Lance
+89 || Black Belt Lance || Shihan Lance
+90 || Expert Lance || Warrior's Lance
+91 || Stonefist Lance || Stonefist Greatlance
+92 || Dreadqueen Thorn || Dreadqueen Rose
+93 || Gale Stinger || Radiant Shower
+94 || Incessant Calamity || Deadeye Lance
+95 || Groad Tail || Dreadking Tail
+96 || Thunderlord Tenrai || Thunderlord Growl
+97 || Rudra Stinger || Grimclaw Lance
+98 || Svarog Boomer || Hellblade Granat
+99 || Brain Fox || Discovery Corps Lance
+100 || DUMMY 1

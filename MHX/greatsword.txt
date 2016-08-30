@@ -1,0 +1,110 @@
+1 || Petrified Blade || Scholarly Blade
+2 || Obsidian Blade || Luminous Jurasta
+3 || Halberd || Judgment
+4 || Decider || Punisher
+5 || Igneous Blade || Igneous Sword
+6 || Type 41 Wyvernator || Remalgalypse
+7 || Khezu Shock Sword || Khezu Shock Blade
+8 || Defender || Sentinel
+9 || Usurper's Storm || Despot's Blackstorm
+10 || Barbaroi Blade || Crimson Goat
+11 || Iron Sword || Carbalite Sword
+12 || Lagiacrus Blade || High Lagia Blade
+13 || Lagia Lightning || Lagia Wildfire
+14 || Plesioth Watercutter || Plesioth Aquablade
+15 || Plesioth Wave Sword || Plesioth Wave Blade
+16 || Ravager Blade || Raging Blade
+17 || Lacerator Blade || Devastator Blade
+18 || Tactical Blade || Strategic Blade
+19 || Hidden Blade || Dark of Night
+20 || Buster Sword || Buster Blade
+21 || Chrome Razor || Chrome Quietus
+22 || Brazenwall || Crimsonwall
+23 || Skraga || Grand Skraga
+24 || Santoku Reaver || Funayuki Reaver
+25 || Toad Bereaver || Millstone Bereaver
+26 || Bone Cleaver || Bone Slasher
+27 || Red Wing || Rathalos Firesword
+28 || Rathalos Gleamsword || Rathlord Gleamsword
+29 || Cheda Blade || Impudent Cheda
+30 || Seditious Cleaver || Rogue Sedition
+31 || Jawblade || Giant Jawblade
+32 || Wyvern Jawblade || Wyvern Gnasher
+33 || Thrash Sword || Thrash Cutlass
+34 || Thrash Blade || Thrashgash Blade
+35 || Golem Blade || Blade of Talos
+36 || Valkyrie Blade || Sieglinde
+37 || Spartacus Blade || Siegmund
+38 || Tiger Jawblade || Tigrex Great Sword
+39 || Dios Blade || Brach Attack
+40 || Demolition Sword || Myxo Demolisher
+41 || Executioner || Salvationblade
+42 || Ludroth Bone Sword || Ludroth Bone Blade
+43 || Cataclysm Sword || Cataclysm Blade
+44 || Snowclad || Lagombi Charlotte
+45 || Red Stripe || Akatsume
+46 || Red Pincer || Great Pincer
+47 || Ceanataur Blade || Killer's Scythe
+48 || Azure Serpentblade || Azure Fangblade
+49 || Saffron Fangblade || Saffron Serpentblade
+50 || Fanged Serpentblade || Amaranth Fangblade
+51 || Deadly Serpentblade || Poison Serpentblade
+52 || White Serpentblade || Golden Serpentblade
+53 || Chicken Decapitator || Rooster Decapitator
+54 || Sentoryu Raven || Sentoryu Wolf
+55 || Sentoryu Bane || Garuga Engetsu
+56 || Nocturnal Falx || Slumbering Duke
+57 || Verdant Wing || Astalos Elecblade
+58 || Giant's Slicer || Colossus's Slicer
+59 || Hanayako Yohino || Akanesasu
+60 || Scorching Blazer || Glavenus Array
+61 || Schattenstolz || Düsterstolz
+62 || L'Apothéose || L'Éclat
+63 || Kirin Thundersword || King Thundersword
+64 || Grand Shamshir || Foreboding Shamshir
+65 || Demon Rod || Great Demon Rod
+66 || Demonlord Club || Demonlord Goldrod
+67 || Berserker Sword || Anguish
+68 || Consummate Blade || Doomedge "Hrunting"
+69 || Skeletal Great Sword || Infernal Great Sword
+70 || Astral Leo || Dreadful Leo
+71 || Akantor Broadsword || Akantor Kingsword
+72 || Ukanlos Destructor || Ukanlos Skycleaver
+73 || Alatreon Great Sword || Alatreon Revolution
+74 || Roilcloud Sword || Heavenly Sunshine
+75 || Rusted Great Sword || Tarnished Great Swd
+76 || Ancient Blade || Elder Monument
+77 || Icesteel Edge || Daora's Decimator
+78 || Worn Great Sword || Weathered Great Swd
+79 || Epitaph Blade || Epitaph Eternal
+80 || Teostra Blade || King Teostra Blade
+81 || Vulcanis || Vulcamagnon
+82 || Black Blade || Chrono Blade
+83 || Yukumo Edge || Yukumo Blade
+84 || Yukumo Pure Edge || Yukumo Cloudcutter
+85 || Larisaber || Long Larisaber
+86 || Cheese Mixer || Cheese Jumbler
+87 || Autumn Umbrella || Shearing Umbrella
+88 || Frozen Speartuna || Freezer Speartuna
+89 || Wyvern's Perch || Roguish Deathcap
+90 || Aloe Blade || Aloe Stenyo
+91 || Cat's Soul || Cat's Curse
+92 || El Dora Blade || Lost Blade
+93 || Black Belt Blade || Shihan Blade
+94 || Expert Blade || Warrior's Blade
+95 || Eostoclad || Principality
+96 || Stonefist Pincer || Stonefist Unguis
+97 || Royal Blade || Sieglinde Rose
+98 || Demon Knife || Virtuous Knife
+99 || Blazing Squall || Radiant Sword
+100 || Grobowall || Grobowall Zeta
+101 || Sentoryo Calamity || Deadeye Engetsu
+102 || Flamelord Wing || Rathalos Darkflame
+103 || Thunderlord Gekirai || Thunderlord's Bane
+104 || Rudra Jawblade || Grimclaw Royalty
+105 || Crisped Blazer || Ashen Array
+106 || Fox Blade || Discovery Corps Blade
+107 || Captain Blade J || Captain Buster J
+108 || Amol Saiqa || Amol Saiqa X
+109 || Chivalry || Indignant Scar
+110 || G Blade || GX Blade

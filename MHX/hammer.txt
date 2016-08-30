@@ -1,0 +1,107 @@
+1 || Petrified Hammer || Scholarly Hammer
+2 || Obsidian Hammer || Relic Hammer
+3 || Fist of Fury || Ancient Blow
+4 || Striped Striker || Tigrex Hammer
+5 || Great Nova || Super Nova
+6 || Brazenclout || Gigas Hammer
+7 || Type 42 Shellbuster || Fraghammer Mk.II
+8 || Iron Hammer || Iron Devil
+9 || Devil Masher || Iron Devil's Soul
+10 || Anvil Hammer || Onslaught
+11 || Accelerated Hammer || Boosted Hammer
+12 || Nitro Boost Hammer || Overclocker
+13 || Binding Bludgeon || Armored Gogue
+14 || War Hammer || War Mace
+15 || War Stamp || War Basher
+16 || Iron Striker || Iron Impact
+17 || Mane Malice || Mane Malice Rajang
+18 || Demonlord Hammer || Demonlord Sledge
+19 || Gun Hammer || Deadeye Revolver
+20 || Shot Crusher || Burning Crusher
+21 || Spiked Hammer || Spiked Glory
+22 || Vortex Hammer || High Vortex Hammer
+23 || Vortical Hammer || Vortastrophe
+24 || Frozen Core || Cocytus
+25 || Bone Hammer || Hard Bone Hammer
+26 || Lobstrosity || King Lobstrosity
+27 || Calamitous Portent || Catastrophic Portent
+28 || Dios Tailhammer || Brachy Tailhammer
+29 || Demolition Hammer || Novagio Demolisher
+30 || Cyclo-Hammer || Atlas Hammer
+31 || Matraca Hammer || Argyl Hammer
+32 || Seditious Hammer || Qadar Sedition
+33 || Skullcrusher || Skullblaster
+34 || Jupiter's Sphere || Duramboros Fellmace
+35 || Conehead Hammer || Great Cone
+36 || Ceanataur Head Axe || Big Blue Chopper
+37 || Bag o' Horrors || Bag o' Thunder
+38 || Bone Bludgeon || Heavy Bone Bludgeon
+39 || Meaty Smash || Meaty Crush
+40 || Meaty Press || Pressure Cooker
+41 || Ludroth Bone Mace || Ludroth Bone Maul
+42 || Ludroth Splashhammer || Ludroth Dousehammer
+43 || Revenge Hammer || Vindication Hammer
+44 || Feather Hammer || Plume Hammer
+45 || Bull Head Hammer || Bull Tusk Hammer
+46 || Plesioth Head || Plesioth Breaker
+47 || Usurper's Thunder || Despot's Crackle
+48 || Dragonhead Hammer || Ancient Relic
+49 || Red Bludgeon || Huracan Hammer
+50 || Leonid Starcrusher || Svarog Starsmasher
+51 || Hidden Breaker || Night Eternal
+52 || Kut-Ku Pick || Kut-Ku Thwap
+53 || Raven Torrent || Wolf Torrent
+54 || Vile Torrent || Garuga Effusion
+55 || Venom Monster || Death Venom Hammer
+56 || Emerald Beater || Astalos Smasher
+57 || Giant's Hammer || Colossus's Hammer
+58 || Purity Hammer || Sinter Hammer
+59 || Scorching Isshata || Glavenus's Uruga
+60 || Wuchtblick || Grimmblick
+61 || Le Jugement || La Naissance
+62 || Genie's Expanse || Diamalto's Dream
+63 || Devil's Due || Devil's Crush
+64 || Consummate Hammer || Doomhammer "Blood"
+65 || Skeletal Hammer || Wicked Hammer
+66 || Polaris Hammer || Cosmic Hammer
+67 || Ukanlos Trampler || Ukanlos Skysmasher
+68 || Alatreon Hammer || Alatreon Metamorph
+69 || Incubus Hammer || Imminent Dawn
+70 || Rusted Hammer || Tarnished Hammer
+71 || Breath Core Hammer || Lava Core Hammer
+72 || Teostra Cratermaker || Teostra Cratergouger
+73 || Worn Hammer || Weathered Hammer
+74 || Pulsating Core || Pulse Crusher Core
+75 || Icesteel Hammer || Daora's Colossus
+76 || Gaiarch || Great Gaiarch
+77 || Black Hammer || Onyx Hammer
+78 || Yukumo Mallet || Yukumo Impact
+79 || Yukumo Purehammer || Yukumo Hammerfist
+80 || Airship Hammer || Zeppelin Hammer
+81 || Teddybear || Sleepy Bear
+82 || Enormous Ham || Ham of Hams
+83 || Cactus Creamer || Green Monster
+84 || Black Frying Pan || True Black Frying Pan
+85 || One Star Silver Pot || Two Star Silver Pot
+86 || Pumpking || Jack-'o-lantern King
+87 || Anchor Hammer || Anchor Crusher
+88 || Portsmark || Port Talisman
+89 || Arluq Whammer || Swinging Scarluq
+90 || Pride of Harth || Joy of Harth
+91 || White Kitty Stamp || White Kitty Hammer
+92 || Black Kitty Stamp || Black Kitty Hammer
+93 || Egg Hammer || Garga Hammer
+94 || Graceful Death || Yadora Morte
+95 || Black Belt Hammer || Shihan Hammer
+96 || Expert Hammer || Warrior's Hammer
+97 || Pincher Hammer || Stonefist Hammer
+98 || Nightfall Hammer || Silverwind Hammer
+99 || Geode Hammer || Crystalbeard Hammer
+100 || Hardened Hammer || Deadeye Hammer
+101 || Tomb Hammer || Dreadking Hammer
+102 || Raiden Hammer || Thunderlord Hammer
+103 || Seize Hammer || Grimclaw Hammer
+104 || Magma Hammer || Hellblade Hammer
+105 || Thunder Works || Giga Thunder Works
+106 || Demon Visage || Demon Incarnate
+107 || DUMMY 1

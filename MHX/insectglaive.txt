@@ -1,0 +1,62 @@
+1 || Petrified Rod || Scholarly Rod
+2 || Obsidian Rod || Relic Trias
+3 || Kut-Ku Pike || Toucan Pike
+4 || Royal Bloom || Bloom Royale
+5 || Fader Rod || Scale Fader
+6 || Altair || Alteal
+7 || Seditious Breaker || Lana Sedition
+8 || Hidden Scythe || Evening Calm
+9 || Bolt Chamber || Full Bolt Chamber
+10 || Iron Bayonet || Hiten Blade
+11 || Arcane Strike || Electric Bayonet
+12 || Azure Bayonet || General's Bayonet
+13 || Heaven's Rath Glaive || Unprecedented Rath
+14 || Crimson Fury || Vermillion Viper
+15 || Sand Anchor || Dune Anchor
+16 || Fin Harpoon || Dorsal Harpoon
+17 || Névé Rod || Névé Frost
+18 || Bone Staff || Aerial Glaive
+19 || Sky-high Glaive || Highest of Glaives
+20 || Mind Stick || Mind Stick "Stone"
+21 || Sturdy Glaive || Sturdy Glaive Redux
+22 || Flaming Halberd || Blazing Halberd
+23 || Deep Blue Glaive || Midnight Glaive
+24 || Dios Rod || Electrorod
+25 || Demolition Press || Quantum Demolisher
+26 || Needle Ivy || Needle Vine
+27 || Wardance Cudgel || Warparty Cudgel
+28 || Rage Cudgel || Master's Rage Cudgel
+29 || Shell Intoner || Crab Intoner
+30 || Hortadent || Hortadent Brada
+31 || Sect Happa || Belsect Happa
+32 || Trim Happa || Cannibal Happa
+33 || Astalos Cudgel || Thunderstorm Cudgel
+34 || Giant's Cudgel || Colossus's Cudgel
+35 || Fox Halberd || Curved Naganagi
+36 || Flaming Teuza || Glavenus Helldait
+37 || Leumundslist || Leumundsgift
+38 || Le Traqueur || La Merveille
+39 || Daora's Entom || Daora's Tethidine
+40 || Caster's Rod || Hazy Caster
+41 || Indigo Flash || Azure Bolt
+42 || Metal Mauler || Metalmangler
+43 || Demonlord Cudgel || Demonlord Grudgel
+44 || Skeletal Cudgel || Infernal Cudgel
+45 || Polaris Zimbal || Zimbal Cudgel
+46 || Ukanlos Staff || Ukanlos Skytraveler
+47 || Alatreon Dragonspire || Alatreon Embrace
+48 || Black Rod || Onyx Rod
+49 || Push Broom || Stain Remover
+50 || Magia Pitareen || Magia Crescent
+51 || Garia Club || Garia Chachamba
+52 || Acorn Rod || Meownster Club
+53 || Deathport Staff || Garamorse
+54 || Stonefist Caster || Black Stonefist Hurler
+55 || Nightfall Scythe || Morning Calm
+56 || Grobo Blow || Grobo Blow Zeta
+57 || Ashen Teuza || Ashen Helldait
+58 || Conviction Glaive J || Condemnation Glaive J
+59 || Aladdin's Wand || Aladdin's Wand X
+60 || Spear of the Beast || Spear of Rebirth
+61 || DUMMY 1
+62 || DUMMY 2

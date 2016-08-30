@@ -1,0 +1,284 @@
+1 || F Bone Wedge
+2 || F Bherna Staff
+3 || F Iron Sword
+4 || F Bone Hammer
+5 || F Jaggi Knife
+6 || F Hunting Knife
+7 || F Yukumo Bokken
+8 || F Wood Chopper
+9 || F Paw Punch
+10 || F Alta Net
+11 || F Rheno Hammer
+12 || F Bnaha Dagger
+13 || F Maccao Dagger
+14 || F Vprey Bayonet
+15 || F Bulldrome Tusk
+16 || F Arzuros Mace
+17 || F Genprey Bayonet
+18 || F Cephalos Brush
+19 || F Machalite Wedge
+20 || F Giant Acorn
+21 || F Stone Cat Statue
+22 || F Venombee Bat
+23 || F Gourmet Cheese
+24 || F Moofah Cotton
+25 || F Aptonoth Meat
+26 || F Fish Stick
+27 || F Grilled Hammer
+28 || F Ioprey Bayonet
+29 || F Lagombi Staff
+30 || F Kut-Ku Cutter
+31 || F Gypceros Glare
+32 || F Cabra Pounder
+33 || F Daimyo Shears
+34 || F Ludroth Paw
+35 || F Khezu Whaccine
+36 || F Nibel Blammer
+37 || F Quest Book
+38 || F Vprey Wedge
+39 || F Barrel Basher
+40 || F Derring Lance
+41 || F Edel Rod
+42 || F Mosgharl Broom
+43 || F Bushwhacker
+44 || F Death Stench Scythe
+45 || F Marauder Blade
+46 || F Marauder Gavel
+47 || F Volvi Lantern
+48 || F Jester Parasol
+49 || F Rathian Rapier
+50 || F Blango Spear
+51 || F Ceanataur Cutter
+52 || F Naja Pungi
+53 || F Narga Shuriken
+54 || F Kokoto Beer
+55 || F Pokke Mop
+56 || F Yukumo Fan
+57 || F Shroom Rod
+58 || F Eldora Paw
+59 || F Garuga Fan
+60 || F Uragaan Iron
+61 || F Rathalos Blade
+62 || F Lagia Anchor
+63 || F Astalos Spear
+64 || F Enormews Staff
+65 || F Mizutsune Parasol
+66 || F Guild Rapier
+67 || F Moofy Plush
+68 || F Scorching Blade
+69 || F Mewsurper's Peal
+70 || F Katzenlampe
+71 || F Seregios Edge
+72 || F Tigrex Whammer
+73 || F Kirin Rumblezap
+74 || F Brachy Punch
+75 || F Le Cœur de Chat
+76 || F Kushala Wand
+77 || F Genie Breath
+78 || F Kaiser Mace
+79 || F White Felyne Husk
+80 || F Bone Wedge S
+81 || F Bherna Staff S
+82 || F Hunting Knife S
+83 || F Yukumo Bonito
+84 || F Carbalite Wedge
+85 || F Giant Acorn S
+86 || F Vprey Wedge S
+87 || F Barrel Basher S
+88 || F Gourmet Cheese S
+89 || F Moofah Cotton S
+90 || F Barbecue
+91 || F Fish Stick S
+92 || F Fingerlicker
+93 || F Bushwhacker S
+94 || F Paw Punch S
+95 || F Carbalite Sword
+96 || F Bone Hammer S
+97 || F Alta Net S
+98 || F Bnaha Dagger S
+99 || F Jaggi Knife S
+100 || F Rheno Hammer S
+101 || F Slagtoth Leaf
+102 || F Maccao Dagger S
+103 || F Vprey Bayonet S
+104 || F Bulldrome Tusk S
+105 || F Arzuros Mace S
+106 || F Genprey Bayonet S
+107 || F Lagombi Staff S
+108 || F Cephalos Brush S
+109 || F Kut-Ku Cutter S
+110 || F Gypceros Glare S
+111 || F Cabra Pounder S
+112 || F Daimyo Shears S
+113 || F Ludroth Paw S
+114 || F Kecha Harrow
+115 || F Bell Rod
+116 || F Gargouille Waltz
+117 || F Venombee Bat S
+118 || F Mosgharl Broom S
+119 || F Meowtetsuken
+120 || F Pounderpurr
+121 || F Ioprey Bayonet S
+122 || F Volvi Lantern S
+123 || F Khezu Whaccine S
+124 || F Nibel Blammer S
+125 || F Slumbering Duke
+126 || F Queen Rapier
+127 || F Blango Spear S
+128 || F Ceanataur Cutter S
+129 || F Naja Pungi S
+130 || F Narga Shuriken S
+131 || F Garuga Fan S
+132 || F Uragaan Iron S
+133 || F Zamtrios Paw
+134 || F Plesioth Board
+135 || F Lava Mace
+136 || F Edel Rod S
+137 || F Lulling Moofy Plush
+138 || F Wood Chopper S
+139 || F Kut-Ku Cackle
+140 || F Bulldrome Rrrush
+141 || F Mighty Shroom Rod
+142 || F D. Stench Scythe S
+143 || F Lost Catspaw Staff
+144 || F Lagia Anchor S
+145 || F Scorched Whiskers
+146 || F Lightning Spear
+147 || F Ginormews Staff
+148 || F Crimson Parasol
+149 || F Blazing Blade
+150 || F Mewsurper's Roar
+151 || F Katzenfunzel
+152 || F Tigrex Whammer S
+153 || F Seltas Drill
+154 || F Agnaktor Lance
+155 || F Duram Axe
+156 || F Kirin Bolt
+157 || F Golden Gadget
+158 || F Vangis Mace
+159 || F Kut-Ku Cutter R
+160 || F Kecha Harrow R
+161 || F Gypceros Ankh R
+162 || F Cabra Pounder R
+163 || F Daimyo Shears R
+164 || F Ludroth Paw R
+165 || F Jester Parasol R
+166 || F Zamtrios Paw R
+167 || F Khezu Whaccine R
+168 || F Rathian Rapier R
+169 || F Nibel Blammer R
+170 || F Plesioth Board R
+171 || F Blango Spear R
+172 || F Quest Book S
+173 || F Kokoto Beer S
+174 || F Pokke Mop S
+175 || F Yukumo Fan S
+176 || F Guildcalibur
+177 || F Dragon Evertones
+178 || F Barrel Mallet
+179 || F Dirty Blade
+180 || F Meowsketeer Rapier
+181 || F Master's Blade
+182 || F Derring Lance S
+183 || F Seregios Edge S
+184 || F Brachy Wallop
+185 || F Le Chatphrodite
+186 || F White Felyne Staff
+187 || F Polaris Sword
+188 || F Lava Mace R
+189 || F Ceanataur Cutter R
+190 || F Narga Shuriken R
+191 || F Naja Pungi R
+192 || F Garuga Fan R
+193 || F Uragaan Iron R
+194 || F Seltas Drill R
+195 || F Rathalos Blade R
+196 || F Lagia Anchor R
+197 || F Mewsurper's Peal R
+198 || F Kushala Wand S
+199 || F Genie Breath S
+200 || F Kaiser Mace S
+201 || F Akantor Sword
+202 || F Ukanlos Shovel
+203 || F Cursed Cloud
+204 || F Escador Scythe
+205 || F Mizutsune Parasol R
+206 || F Astalos Spear R
+207 || F Enormews Staff R
+208 || F Scorching Blade R
+209 || F Agnaktor Lance R
+210 || F Katzenlampe R
+211 || F Seregios Edge R
+212 || F Duram Axe R
+213 || F Tigrex Whammer R
+214 || F Brachy Punch R
+215 || F Golden Gadget R
+216 || F Deviljho Mace R
+217 || F Strange Hammer
+218 || F Strange Hammer S
+219 || F Redhelm Mace
+220 || F Redhelm Mace S
+221 || F Snowbaron Stick
+222 || F Snowbaron Stick S
+223 || F Stonefist Shears
+224 || F Stonefist Shears S
+225 || F Dreadqueen Rapier
+226 || F Dreadqueen Rapier S
+227 || F Drilltusk Pounder
+228 || F Drilltusk Pounder S
+229 || F Silverwind Star
+230 || F Silverwind Star S
+231 || F Crystalbeard Iron
+232 || F Crystalbeard Iron S
+233 || F Deadeye Fan
+234 || F Deadeye Fan S
+235 || F Dreadking Blade
+236 || F Dreadking Blade S
+237 || F Thunderlord's Peal
+238 || F Thunderlord's Roar
+239 || F Grimclaw Whammer
+240 || F Grimclaw Whammer S
+241 || F Blazing Ashes
+242 || F Ashen Whiskers
+243 || F Zombie-kun Gut
+244 || F Fairy Tail Blade
+245 || F Treasure Chalice J
+246 || F Pirate Key J
+247 || F Legendary Glass J
+248 || F Greedy Hook J
+249 || F Rolled-up Paper
+250 || F Monqlo Ball
+251 || F Meowstar Gunbai
+252 || DUMMY
+253 || F Midousuji Bike
+254 || F Zombie-kun Stomach
+255 || F Grandpaw Danger
+256 || F True Fairy Tail Blade
+257 || F Dark Meowgic Staff
+258 || F Booty Chalice J
+259|| F Buccaneer Key J
+260 || F King Scope J
+261 || F Avaricious Hook J
+262 || F Tightly-rolled Paper
+263 || F Monqlo Ball S
+264 || F Supreme Gunbai
+265 || F Star World
+266 || F Magical Baton
+267 || DUMMY
+268 || DUMMY
+269 || F Wind Waker
+270 || F Blaster
+271 || F Invincible Hammer
+272 || F Sentry's Pickaxe
+273 || F Minder's Binder
+274 || F Sword of Purrity
+275 || F Chun Bracelets
+276 || F Blanka Fish
+277 || F Alastor
+278 || F Rushing Hammer
+279 || F Melodic Baton
+280 || DUMMY
+281 || F Fan Megaphone
+282 || F Tenderpaw Clog
+283 || F Tsumugari
+284 || F Arthur's Lance

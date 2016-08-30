@@ -1,0 +1,91 @@
+1 || Petrified Gunlance || Scholarly Gunlance
+2 || Obsidian Gunlance || Lustrous Oldoba
+3 || Hard Hitter || Big Slugger
+4 || Shattershot || Shatter God
+5 || Full Voltage || High Volt Gunlance
+6 || Lagomberator || Lagomberatrix
+7 || Lagomberastrophe || Lagombergeddon
+8 || Marine Fisher || Abyssal Fisher
+9 || Volcano Gunlance || Lavasioth Gunlance
+10 || Red Devil Gunlance || Red Devil Smasher
+11 || Blue Devil Uberlance || Blue Devil Opus
+12 || Flamethrower || Agna Magma
+13 || Iron Gunlance || Eizenlitter
+14 || Seadiver || Abyssdiver
+15 || Deepbuster || Deep Gunbuster
+16 || Jaya Gunlance || Riotous Gunlance
+17 || Seditious Gunlance || Tamarod Sedition
+18 || Striker's Gunlance || Imperial Guardlance
+19 || General's Arbalance || Admiral's Arbalance
+20 || Red Rook || Crimson Rook
+21 || Silver Rook || Chariot Gun
+22 || Lagia Burst || Exlagia Gunlance
+23 || Dios Gunlance || Brachy Gunlance
+24 || Demolition Gunlance || Zvolta Demolisher
+25 || Ancient Gyrelance || Ancient Gyresmite
+26 || Type 62 Stormlance || Assault Stormlance
+27 || Rogue Gunlance || Cultured Rogue
+28 || Arya Gadda || Chali Riyati
+29 || Genenam Lance || V Crest
+30 || Bone Gunlance || Wyvern Bone Gunlance
+31 || Demon Gunlance || Great Demon Gunlance
+32 || Demonlord Artillery || Demonlord Gunlance
+33 || Tiger Blast || Tigrex Gunlance
+34 || Princess Panoply || Ortlinde
+35 || Queen's Panoply || Shining Ishtar
+36 || Usurper's Roar || Despot's Phlogiston
+37 || Golem Gunlance || Behemoth Gunlance
+38 || Thunder Yell || Lightning Roar
+39 || Spine Blaster || Vertebrae Blaster
+40 || Hellsting || Hellstinger
+41 || Gerd Sting || Ice Jailer
+42 || Scissor Gunlance || Scissor Cannon
+43 || Hidden Gunlance || Fading Night
+44 || Fiore Nulo || Fiore Unu
+45 || Fiore Nulo (G) || Fiore Unu (G)
+46 || Fiore Nulo (R) || Fiore Unu (R)
+47 || Monsieur Gore || Genteel Gore
+48 || Madame Butcher || Seltas Fortitude
+49 || Verdant Rook || Dark Chariot
+50 || Giant's Artillery || Giant's Clasher
+51 || Ukiyo no Yamiwo || Mizumori
+52 || Burning Kabeira || Glavenus Brewer
+53 || Tyrannenarm || Verräterarm
+54 || L'Onde || Le Mur
+55 || Venomous Cologne || Venomous Attar
+56 || Ravenous Gunlance || Insatiable Gunlance
+57 || Consummate Gunlance || Doomlance "Greed"
+58 || Chasm Gunlance || Abyss Gunlance
+59 || Astral Centaurus || Anguished Centaurus
+60 || Akantor Gunlance || Akantor Cannonlance
+61 || Ukanlos Gunlance || Ukanlos Cannonlance
+62 || Ominous Monsoon || Heavenly Dusk
+63 || Worn Gunlance || Weathered Gunlance
+64 || Obelisk || Deus Obelisk
+65 || Icesteel Gunlance || Daora's Brigia
+66 || Black Smoke Gunlance || Chrono Burst
+67 || Yukumo Gunlance || Yukumo Burst
+68 || Yukumo Puregunlance || Mystic Gunlance
+69 || Baa Baa Gunlance || Sleepyeye Gunlance
+70 || Wycademy Gunlance || Academic Gunlance
+71 || Hero Gunlance || Master Gunlance
+72 || Kamak Gunlance || Snowy Kamak
+73 || Felyoshka || Felicitous Felyoshka
+74 || Bamboo Birdsbane || Bamboo Lionsbane
+75 || Cornpopper || Mighty Cornpopper
+76 || Teostra Gunlance || Firelord Roar
+77 || Blackhare Gunlance || Snowbaron Gunlance
+78 || Pincher Cannon || Stonefist Cannon
+79 || Royal Burst || Dreadqueen Burst
+80 || Pierce Cannon || Drilltusk Cannon
+81 || Nightfall Burst || Silverwind Burst
+82 || Geode Burst || Crystalbeard Burst
+83 || Hardened Gunlance || Imperial Deadeye
+84 || Tomb Gunlance || Regaling Chariot
+85 || Raiden Cannon || Thunderlord Cannon
+86 || Seize Burst || Grimclaw Burst
+87 || Explosive Kabeira || Powderkeg Brewer
+88 || Platinum Trophy || Platinum Crown
+89 || Volt Works || Voltaic Works
+90 || Pirate Gunlance J || Buccaneer Gunlance J
+91 || DUMMY 1

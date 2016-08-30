@@ -1,0 +1,103 @@
+1 || Petrified Daggers || Scholarly Daggers
+2 || Obsidian Daggers || Lustrous Permia
+3 || Gelid Mind || Gelid Soul
+4 || Twin Chainsaws || Guillotines
+5 || Roving Saws || Golem's Saws
+6 || Type 51 Macerators || Deathsnarfs
+7 || Insecticutters || Insectirippers
+8 || Insectiscythes || Alated Insect
+9 || Twin Daggers || Dual Daggers
+10 || Hurricane || Cyclone
+11 || Cleaving Jaws || Breaching Jaws
+12 || Cool Cleavers || Frozen Cleavers
+13 || Dios Slicers || Explosive Slicers
+14 || Demolition Blades || Spectral Demolisher
+15 || Zakun Twins || Terrible Twins
+16 || Seditious Talons || Serre Sedition
+17 || Dual Hatchets || Dual Cleavers+
+18 || Tornado Hatchets || Typhoon
+19 || Rex Slicers || Tigrex Claws
+20 || Usurper's Fulgur || Despot's Blitz
+21 || Sworn Rapiers || Holy Sabers
+22 || Dual Piercers || Maccao Piercers
+23 || Flamestorm || Salamanders
+24 || Rouge Flames || Dual Chameleos
+25 || Khezu Daggers || Khezu Skards
+26 || Bone Scythes || Chief's Scythes
+27 || Twin Flames || Wyvern Lovers
+28 || Wyvern Strife || Wyvern Conciliation
+29 || Talon Carvers || Talon Twins
+30 || Plesioth Cutlasses || Plesioth Machetes
+31 || Firestorm || Volcanic Storm
+32 || Bladed Edges || Limb Cutter
+33 || Bladed Pincers || Feudal Shears
+34 || Hidden Gemini || Night Wings
+35 || Crab Horns || Lobster Piercers
+36 || Monarch || Kirin Bolts
+37 || Cerulean Axes || Ashigara Axes
+38 || Blazeblades || Infernal Furies
+39 || Ludroth Pair || Double Droth
+40 || Twin Acrus || Levin Acrus
+41 || Snow Slicers || Snow Sisters
+42 || Maulagombs || Brawlagombs
+43 || Dual Battleaxes || Final Battleaxes
+44 || Vprey Claws || High Vprey Claws
+45 || Snow Venom || Glacial Medusa
+46 || Whirlitwists || Whirlitricks
+47 || Whirlitorture || Gyro Wedges
+48 || Kut-Ku Pair || Dual Kut-Ku
+49 || Raven Tessen || Wolf Tessen
+50 || Wicked Tessen || Garuga Gunsen
+51 || Twin Bolts || Twin High Bolts
+52 || Giant's Daggers || Colossus's Daggers
+53 || Morning Dawn || Evening Dusk
+54 || Smoldering Cities || Smoldering Kingdoms
+55 || Fledderklauen || Hungerklauen
+56 || Les Apôtres || Le Paradis
+57 || Twin Nails || Fire and Ice
+58 || Suzuka Takamaru || Suzuka Otakemaru
+59 || Wrath & Rancor || Wrathful Predation
+60 || Consummate Pair || Doomfang "Envoys"
+61 || Chasm Blades || Abyss Blades
+62 || Astral Gemini || Ecstatic Gemini
+63 || Akantor Blades || Akantor Shadow Claws
+64 || Ukanlos Ruinblades || Ukanlos Skyrippers
+65 || Stormwind Fans || Heavenwind Fans
+66 || Worn Blades || Weathered Blades
+67 || Enduring Schism || Enduring Sacrifice
+68 || Hi Twin Daggers || Silhouette Sabers
+69 || Black Twin Daggers || Chrono Twin Daggers
+70 || Yukumo Duo || Yukumo Slicers
+71 || Pure Yukumo Duo || Divine Yukumo Duo
+72 || Wycademy Blades || Historia Edges
+73 || Heroic Twins || Legendary Twins
+74 || Guild Knight Sabers || Master Sabers
+75 || Addled Beers || Potent Lagers
+76 || Pokke Mittens || Toasty Mittens
+77 || White Dango || Sublime Dango
+78 || Spicy Dango || Red Hot Dango
+79 || Tengu Dango || Devil Dango
+80 || Glutton's Tools || Gorger's Tools
+81 || Stewbry Stirfoils || Deepshake Frybakers
+82 || Qornu Waga || Ro Waga
+83 || Shaka Scarecrows || Chum Scarecrows
+84 || Felyne and Melynx || Felyne and Melynx DX
+85 || Felyne Claws || Raging Claws
+86 || Daora Blades || Gargouille Wings
+87 || Crimson Daggers || Redhelm Daggers
+88 || Blackhare Daggers || Snowbaron Dual Blades
+89 || Pincher Daggers || Stonefist Daggers
+90 || Royal Daggers || Dreadqueen Daggers
+91 || Nightfall Daggers || Silverwind Daggers
+92 || Hardened Daggers || Deadeye Daggers
+93 || Raiden Daggers || Thunderlord Daggers
+94 || Seize Slicers || Grimclaw Blood
+95 || Enflamed Slicers || Charred Slicers
+96 || Pirate Edges J || Buccaneer Edges J
+97 || Exploding Blades || True Exploding Blades
+98 || Baki Combat Jutsu || Baki Combat Jutsu X
+99 || Twin Star Blades || Eternal Star Blades
+100 || Fan Club Fans || Fan Club Deluxe Fans
+101 || Light Sword Cypher || Light Sword Cypher X
+102 || DUMMY 2
+103 || DUMMY 3

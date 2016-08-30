@@ -1,0 +1,5076 @@
+|| 1
+Leather Headgear
+Leather Vest
+Leather Gloves
+Leather Belt
+Leather Trousers
+
+|| 2
+Chainmail Headgear
+Chainmail Vest
+Chainmail Gloves
+Chainmail Belt
+Chainmail Trousers
+
+|| 3
+Bherna Turban
+Bherna Mail
+Bherna Braces
+Bherna Belt
+Bherna Greaves
+
+|| 4
+Hunting Helm
+Hunting Mail
+Hunting Braces
+Hunting Faulds
+Hunting Greaves
+
+|| 5
+Hunting Cap
+Hunting Vest
+Hunting Guards
+Hunting Coat
+Hunting Leggings
+
+|| 6
+Mafumofu Hood
+Mafumofu Jacket
+Mafumofu Mittens
+Mafumofu Coat
+Mafumofu Boots
+
+|| 7
+Yukumo Kasa
+Yukumo Dogi
+Yukumo Kote
+Yukumo Obi
+Yukumo Hakama
+
+|| 8
+(None)
+Loc Lac Shawl
+(None)
+Loc Lac Kilt
+Loc Lac Boots
+
+|| 9
+Hunter's Helm
+Hunter's Mail
+Hunter's Vambraces
+Hunter's Faulds
+Hunter's Greaves
+
+|| 10
+Hunter's Cap
+Hunter's Vest
+Hunter's Guards
+Hunter's Coat
+Hunter's Leggings
+
+|| 11
+Bone Helm
+Bone Mail
+Bone Vambraces
+Bone Faulds
+Bone Greaves
+
+|| 12
+Bone Cap
+Bone Vest
+Bone Guards
+Bone Coat
+Bone Leggings
+
+|| 13
+(None)
+(None)
+(None)
+Light Belt
+(None)
+
+|| 14
+(None)
+(None)
+(None)
+Iron Belt
+(None)
+
+|| 15
+Chaoshroom
+Chaos Plate
+(None)
+(None)
+(None)
+
+|| 16
+Chaos Diadem
+Chaos Brigandine
+(None)
+(None)
+(None)
+
+|| 17
+(None)
+(None)
+Trapper's Gauntlets
+(None)
+Trapper's Greaves
+
+|| 18
+(None)
+(None)
+Trapper's Gloves
+(None)
+Trapper's Boots
+
+|| 19
+(None)
+(None)
+Maccao Gauntlets
+(None)
+Maccao Shinguards
+
+|| 20
+(None)
+(None)
+Maccao Gloves
+(None)
+Maccao Boots
+
+|| 21
+(None)
+(None)
+Jaggi Gauntlets
+(None)
+Jaggi Shinguards
+
+|| 22
+(None)
+(None)
+Jaggi Gloves
+(None)
+Jaggi Boots
+
+|| 23
+Jaggi Helm
+Jaggi Mail
+Jaggi Vambraces
+Jaggi Faulds
+Jaggi Greaves
+
+|| 24
+Jaggi Cap
+Jaggi Vest
+Jaggi Guards
+Jaggi Coat
+Jaggi Leggings
+
+|| 25
+Maccao Helm
+Maccao Mail
+Maccao Braces
+Maccao Faulds
+Maccao Greaves
+
+|| 26
+Maccao Cap
+Maccao Vest
+Maccao Guards
+Maccao Coat
+Maccao Leggings
+
+|| 27
+Velociprey Helm
+Velociprey Mail
+Velociprey Braces
+Velociprey Tassets
+Velociprey Greaves
+
+|| 28
+Velociprey Cap
+Velociprey Vest
+Velociprey Guards
+Velociprey Coat
+Velociprey Leggings
+
+|| 29
+Giaprey Helm
+Giaprey Mail
+Giaprey Vambraces
+Giaprey Tassets
+Giaprey Greaves
+
+|| 30
+Giaprey Cap
+Giaprey Vest
+Giaprey Guards
+Giaprey Coat
+Giaprey Leggings
+
+|| 31
+Genprey Helm
+Genprey Mail
+Genprey Vambraces
+Genprey Tassets
+Genprey Greaves
+
+|| 32
+Genprey Cap
+Genprey Vest
+Genprey Guards
+Genprey Coat
+Genprey Leggings
+
+|| 33
+Vespoid Helm
+Vespoid Mail
+Vespoid Vambraces
+Vespoid Tassets
+Vespoid Greaves
+
+|| 34
+Vespoid Cap
+Vespoid Vest
+Vespoid Guards
+Vespoid Coat
+Vespoid Leggings
+
+|| 35
+Hornetaur Helm
+Hornetaur Mail
+Hornetaur Braces
+Hornetaur Tassets
+Hornetaur Greaves
+
+|| 36
+Hornetaur Cap
+Hornetaur Vest
+Hornetaur Guards
+Hornetaur Coat
+Hornetaur Leggings
+
+|| 37
+Bnahabra Hat
+Bnahabra Suit
+Bnahabra Gloves
+Bnahabra Coil
+Bnahabra Boots
+
+|| 38
+Bnahabra Headpiece
+Bnahabra Vest
+Bnahabra Sleeves
+Bnahabra Coat
+Bnahabra Pants
+
+|| 39
+Konchu Helm
+(None)
+Konchu Braces
+(None)
+(None)
+
+|| 40
+Konchu Cap
+(None)
+Konchu Guards
+(None)
+(None)
+
+|| 41
+Mosswine Mask
+Mosswine Vest
+Mosswine Gloves
+Mosswine Hip
+Mosswine Feet
+
+|| 42
+Rhenoplos Helm
+Rhenoplos Mail
+Rhenoplos Vambraces
+Rhenoplos Coil
+Rhenoplos Greaves
+
+|| 43
+Rhenoplos Cap
+Rhenoplos Vest
+Rhenoplos Guards
+Rhenoplos Coat
+Rhenoplos Leggings
+
+|| 44
+Bulldrome Helm
+Bulldrome Mail
+Bulldrome Braces
+Bulldrome Faulds
+Bulldrome Greaves
+
+|| 45
+Bulldrome Cap
+Bulldrome Vest
+Bulldrome Guards
+Bulldrome Coat
+Bulldrome Leggings
+
+|| 46
+Bullfango Mask
+(None)
+(None)
+(None)
+(None)
+
+|| 47
+Arzuros Helm
+Arzuros Mail
+Arzuros Vambraces
+Arzuros Faulds
+Arzuros Greaves
+
+|| 48
+Arzuros Cap
+Arzuros Vest
+Arzuros Guards
+Arzuros Coat
+Arzuros Leggings
+
+|| 49
+Cephalos Helm
+Cephalos Mail
+Cephalos Braces
+Cephalos Tassets
+Cephalos Greaves
+
+|| 50
+Cephalos Cap
+Cephalos Vest
+Cephalos Guards
+Cephalos Coat
+Cephalos Leggings
+
+|| 51
+Derring Headgear
+Derring Jacket
+Derring Gloves
+Derring Belt
+Derring Trousers
+
+|| 52
+Alloy Helm
+Alloy Mail
+Alloy Vambraces
+Alloy Coil
+Alloy Greaves
+
+|| 53
+Alloy Cap
+Alloy Vest
+Alloy Guards
+Alloy Coat
+Alloy Leggings
+
+|| 54
+Battle Helm
+Battle Mail
+Battle Vambraces
+Battle Tassets
+Battle Greaves
+
+|| 55
+Battle Cap
+Battle Vest
+Battle Guards
+Battle Coat
+Battle Leggings
+
+|| 56
+Ingot Helm
+Ingot Mail
+Ingot Vambraces
+Ingot Coil
+Ingot Greaves
+
+|| 57
+Ingot Cap
+Ingot Vest
+Ingot Guards
+Ingot Coat
+Ingot Leggings
+
+|| 58
+High Metal Helm
+High Metal Mail
+High Metal Braces
+High Metal Tassets
+High Metal Greaves
+
+|| 59
+High Metal Cap
+High Metal Vest
+High Metal Guards
+High Metal Coat
+High Metal Leggings
+
+|| 60
+(None)
+(None)
+(None)
+(None)
+Metal Boots
+
+|| 61
+(None)
+(None)
+(None)
+(None)
+Metal Feet
+
+|| 62
+Melahoa Hat
+Melahoa Jacket
+Melahoa Branch
+Melahoa Folia
+Melahoa Roots
+
+|| 63
+Melahoa Bloom
+Melahoa Stalk
+Melahoa Petal
+Melahoa Trunk
+Melahoa Taproot
+
+|| 64
+Makluva Hood
+Makluva Cover
+Makluva Sleeves
+Makluva Coil
+Makluva Pants
+
+|| 65
+Makluva Gills
+Makluva Scale
+Makluva Sucker
+Makluva Fin
+Makluva Leggings
+
+|| 66
+Bistro Toque
+Bistro Suit
+(None)
+Bistro Sarong
+(None)
+
+|| 67
+Bistro Cap
+Bistro Vest
+(None)
+Bistro Apron
+(None)
+
+|| 68
+Obituary Vertex
+Obituary Thorax
+Obituary Brachia
+Obituary Elytra
+Obituary Crura
+
+|| 69
+Obituary Clypeus
+Obituary Pleuron
+Obituary Manus
+Obituary Alae
+Obituary Tarsi
+
+|| 70
+Butterfly Vertex
+Butterfly Thorax
+Butterfly Brachia
+Butterfly Elytra
+Butterfly Crura
+
+|| 71
+Butterfly Clypeus
+Butterfly Pleuron
+Butterfly Manus
+Butterfly Alae
+Butterfly Tarsi
+
+|| 72
+Death Stench Brain
+Death Stench Muscle
+Death Stench Grip
+Death Stench Bowels
+Death Stench Heel
+
+|| 73
+Death Stench Soul
+Death Stench Heart
+Death Stench Grasp
+Death Stench Belly
+Death Stench March
+
+|| 74
+Acorn Helm
+Acorn Mail
+(None)
+(None)
+(None)
+
+|| 75
+Acorn Cap
+Acorn Vest
+(None)
+(None)
+(None)
+
+|| 76
+Mosgharl Vizor
+Mosgharl Ribplate
+Mosgharl Creeper
+Mosgharl Folia
+Mosgharl Roots
+
+|| 77
+Mosgharl Brim
+Mosgharl Ribguard
+Mosgharl Tendril
+Mosgharl Fronds
+Mosgharl Radicles
+
+|| 78
+Edel Vizor
+Edel Ribplate
+Edel Creeper
+Edel Folia
+Edel Roots
+
+|| 79
+Edel Bloom
+Edel Ribguard
+Edel Tendril
+Edel Fronds
+Edel Radicles
+
+|| 80
+Skalda Vertex
+Skalda Thorax
+Skalda Brachia
+Skalda Elytra
+Skalda Crura
+
+|| 81
+Skalda Clypeus
+Skalda Pleuron
+Skalda Manus
+Skalda Alae
+Skalda Tarsi
+
+|| 82
+Spio Vertex
+Spio Thorax
+Spio Brachia
+Spio Elytra
+Spio Crura
+
+|| 83
+Spio Clypeus
+Spio Pleuron
+Spio Manus
+Spio Alae
+Spio Tarsi
+
+|| 84
+(None)
+Droth Mail
+(None)
+Droth Faulds
+Droth Greaves
+
+|| 85
+(None)
+Droth Vest
+(None)
+Droth Coat
+Droth Leggings
+
+|| 86
+(None)
+Uroktor Torso
+(None)
+Uroktor Tassets
+(None)
+
+|| 87
+(None)
+Uroktor Vest
+(None)
+Uroktor Coat
+(None)
+
+|| 88
+Larinoth Mask
+(None)
+(None)
+(None)
+(None)
+
+|| 89
+Gargwa Mask
+(None)
+(None)
+(None)
+(None)
+
+|| 90
+Moofah Head
+Moofah Suit
+Moofah Claws
+Moofah Coil
+(None)
+
+|| 91
+Moofah Wig
+Moofah Jacket
+Moofah Sleeves
+Moofah Coat
+(None)
+
+|| 92
+False Felyne
+(None)
+(None)
+(None)
+(None)
+
+|| 93
+Velociprey Head
+Velociprey Body
+Velociprey Claws
+(None)
+Velociprey Feet
+
+|| 94
+Velociprey Mask
+Velociprey Suit
+Velociprey Gloves
+(None)
+Velociprey Tights
+
+|| 95
+Genprey Head
+Genprey Body
+Genprey Claws
+(None)
+Genprey Feet
+
+|| 96
+Genprey Mask
+Genprey Suit
+Genprey Gloves
+(None)
+Genprey Tights
+
+|| 97
+Ioprey Head
+Ioprey Body
+Ioprey Claws
+(None)
+Ioprey Feet
+
+|| 98
+Ioprey Mask
+Ioprey Wear
+Ioprey Gloves
+(None)
+Ioprey Tights
+
+|| 99
+Remobra Headgear
+Remobra Suit
+Remobra Gloves
+Remobra Belt
+Remobra Feet
+
+|| 100
+Remobra Mask
+Remobra Wear
+Remobra Hands
+Remobra Band
+Remobra Tights
+
+|| 101
+Ioprey Helm
+Ioprey Mail
+Ioprey Vambraces
+Ioprey Tassets
+Ioprey Greaves
+
+|| 102
+Ioprey Cap
+Ioprey Vest
+Ioprey Guards
+Ioprey Coat
+Ioprey Leggings
+
+|| 103
+Kut-Ku Helm
+Kut-Ku Mail
+Kut-Ku Vambraces
+Kut-Ku Tassets
+Kut-Ku Greaves
+
+|| 104
+Kut-Ku Cap
+Kut-Ku Vest
+Kut-Ku Guards
+Kut-Ku Coat
+Kut-Ku Leggings
+
+|| 105
+Lagombi Helm
+Lagombi Mail
+Lagombi Vambraces
+Lagombi Faulds
+Lagombi Greaves
+
+|| 106
+Lagombi Cap
+Lagombi Vest
+Lagombi Guards
+Lagombi Coat
+Lagombi Leggings
+
+|| 107
+Gypceros Helm
+Gypceros Mail
+Gypceros Braces
+Gypceros Tassets
+Gypceros Greaves
+
+|| 108
+Gypceros Cap
+Gypceros Vest
+Gypceros Guards
+Gypceros Coat
+Gypceros Leggings
+
+|| 109
+Tetsucabra Helm
+Tetsucabra Mail
+Tetsucabra Braces
+Tetsucabra Faulds
+Tetsucabra Greaves
+
+|| 110
+Tetsucabra Cap
+Tetsucabra Vest
+Tetsucabra Guards
+Tetsucabra Coat
+Tetsucabra Leggings
+
+|| 111
+Hermitaur Helm
+Hermitaur Mail
+Hermitaur Braces
+Hermitaur Tassets
+Hermitaur Greaves
+
+|| 112
+Hermitaur Cap
+Hermitaur Vest
+Hermitaur Guards
+Hermitaur Coat
+Hermitaur Leggings
+
+|| 113
+Volvidon Helm
+Volvidon Mail
+Volvidon Vambraces
+Volvidon Faulds
+Volvidon Greaves
+
+|| 114
+Volvidon Cap
+Volvidon Vest
+Volvidon Guards
+Volvidon Coat
+Volvidon Leggings
+
+|| 115
+Ludroth Helm
+Ludroth Mail
+Ludroth Braces
+Ludroth Faulds
+Ludroth Greaves
+
+|| 116
+Ludroth Cap
+Ludroth Vest
+Ludroth Guards
+Ludroth Coat
+Ludroth Leggings
+
+|| 117
+Malfestio Helm
+Malfestio Mail
+Malfestio Braces
+Malfestio Faulds
+Malfestio Greaves
+
+|| 118
+Malfestio Cap
+Malfestio Vest
+Malfestio Guards
+Malfestio Coat
+Malfestio Leggings
+
+|| 119
+Khezu Helm
+Khezu Mail
+Khezu Vambraces
+Khezu Tassets
+Khezu Greaves
+
+|| 120
+Khezu Cap
+Khezu Vest
+Khezu Guards
+Khezu Coat
+Khezu Leggings
+
+|| 121
+Rathian Helm
+Rathian Mail
+Rathian Braces
+Rathian Faulds
+Rathian Greaves
+
+|| 122
+Rathian Cap
+Rathian Vest
+Rathian Guards
+Rathian Coat
+Rathian Leggings
+
+|| 123
+Nibelsnarf Helm
+Nibelsnarf Mail
+Nibelsnarf Braces
+Nibelsnarf Faulds
+Nibelsnarf Greaves
+
+|| 124
+Nibelsnarf Cap
+Nibelsnarf Vest
+Nibelsnarf Guards
+Nibelsnarf Coat
+Nibelsnarf Leggings
+
+|| 125
+Blango Helm
+Blango Mail
+Blango Vambraces
+Blango Tassets
+Blango Greaves
+
+|| 126
+Blango Cap
+Blango Vest
+Blango Guards
+Blango Coat
+Blango Leggings
+
+|| 127
+Ceanataur Helm
+Ceanataur Mail
+Ceanataur Braces
+Ceanataur Tassets
+Ceanataur Greaves
+
+|| 128
+Ceanataur Cap
+Ceanataur Vest
+Ceanataur Guards
+Ceanataur Coat
+Ceanataur Leggings
+
+|| 129
+Najarala Helm
+Najarala Mail
+Najarala Braces
+Najarala Faulds
+Najarala Greaves
+
+|| 130
+Najarala Cap
+Najarala Vest
+Najarala Guards
+Najarala Coat
+Najarala Leggings
+
+|| 131
+Nargacuga Helm
+Nargacuga Mail
+Nargacuga Braces
+Nargacuga Faulds
+Nargacuga Greaves
+
+|| 132
+Nargacuga Cap
+Nargacuga Vest
+Nargacuga Guards
+Nargacuga Coat
+Nargacuga Leggings
+
+|| 133
+Scholarly Hood
+Scholarly Suit
+Scholarly Grips
+Scholarly Sash
+Scholarly Boots
+
+|| 134
+Scholarly Cap
+Scholarly Vest
+Scholarly Cuffs
+Scholarly Coat
+Scholarly Tights
+
+|| 135
+Vaik Helm
+Vaik Mail
+Vaik Braces
+Vaik Faulds
+Vaik Greaves
+
+|| 136
+Vaik Cap
+Vaik Vest
+Vaik Guards
+Vaik Coat
+Vaik Leggings
+
+|| 137
+Skull Visage
+(None)
+(None)
+(None)
+(None)
+
+|| 138
+Skull Mask
+(None)
+(None)
+(None)
+(None)
+
+|| 139
+Aelucanth Vertex
+Aelucanth Thorax
+Aelucanth Brachia
+Aelucanth Elytra
+Aelucanth Crura
+
+|| 140
+Aelucanth Clypeus
+Aelucanth Pleuron
+Aelucanth Manus
+Aelucanth Alae
+Aelucanth Tarsi
+
+|| 141
+Rhopessa Vertex
+Rhopessa Thorax
+Rhopessa Brachia
+Rhopessa Elytra
+Rhopessa Crura
+
+|| 142
+Rhopessa Clypeus
+Rhopessa Pleuron
+Rhopessa Manus
+Rhopessa Alae
+Rhopessa Tarsi
+
+|| 143
+(None)
+Artian Mail
+Artian Braces
+(None)
+Artian Greaves
+
+|| 144
+(None)
+Artian Vest
+Artian Guards
+(None)
+Artian Leggings
+
+|| 145
+Garuga Helm
+Garuga Mail
+Garuga Vambraces
+Garuga Tassets
+Garuga Greaves
+
+|| 146
+Garuga Cap
+Garuga Vest
+Garuga Guards
+Garuga Coat
+Garuga Leggings
+
+|| 147
+Garuga Mask
+(None)
+(None)
+(None)
+(None)
+
+|| 148
+Uragaan Helm
+Uragaan Mail
+Uragaan Vambraces
+Uragaan Faulds
+Uragaan Greaves
+
+|| 149
+Uragaan Cap
+Uragaan Vest
+Uragaan Guards
+Uragaan Coat
+Uragaan Leggings
+
+|| 150
+Rathalos Helm
+Rathalos Mail
+Rathalos Braces
+Rathalos Faulds
+Rathalos Greaves
+
+|| 151
+Rathalos Cap
+Rathalos Vest
+Rathalos Guards
+Rathalos Coat
+Rathalos Leggings
+
+|| 152
+Lagiacrus Helm
+Lagiacrus Mail
+Lagiacrus Braces
+Lagiacrus Faulds
+Lagiacrus Greaves
+
+|| 153
+Lagiacrus Cap
+Lagiacrus Vest
+Lagiacrus Guards
+Lagiacrus Coat
+Lagiacrus Leggings
+
+|| 154
+Zinogre Helm
+Zinogre Mail
+Zinogre Braces
+Zinogre Faulds
+Zinogre Greaves
+
+|| 155
+Zinogre Cap
+Zinogre Vest
+Zinogre Guards
+Zinogre Coat
+Zinogre Leggings
+
+|| 156
+Mizutsune Helm
+Mizutsune Mail
+Mizutsune Braces
+Mizutsune Faulds
+Mizutsune Greaves
+
+|| 157
+Mizutsune Mask
+Mizutsune Vest
+Mizutsune Guards
+Mizutsune Coat
+Mizutsune Leggings
+
+|| 158
+Astalos Helm
+Astalos Mail
+Astalos Braces
+Astalos Faulds
+Astalos Greaves
+
+|| 159
+Astalos Cap
+Astalos Vest
+Astalos Guards
+Astalos Coat
+Astalos Leggings
+
+|| 160
+Gammoth Helm
+Gammoth Mail
+Gammoth Braces
+Gammoth Faulds
+Gammoth Greaves
+
+|| 161
+Gammoth Cap
+Gammoth Vest
+Gammoth Guards
+Gammoth Coat
+Gammoth Leggings
+
+|| 162
+Glavenus Helm
+Glavenus Mail
+Glavenus Braces
+Glavenus Faulds
+Glavenus Greaves
+
+|| 163
+Glavenus Cap
+Glavenus Vest
+Glavenus Guards
+Glavenus Coat
+Glavenus Leggings
+
+|| 164
+Gore Helm
+Gore Mail
+Gore Braces
+Gore Faulds
+Gore Greaves
+
+|| 165
+Gore Cap
+Gore Vest
+Gore Guards
+Gore Coat
+Gore Leggings
+
+|| 166
+Regios Helm
+Regios Mail
+Regios Vambraces
+Regios Tassets
+Regios Greaves
+
+|| 167
+Regios Cap
+Regios Vest
+Regios Guards
+Regios Coat
+Regios Leggings
+
+|| 168
+Tigrex Helm
+Tigrex Mail
+Tigrex Braces
+Tigrex Tassets
+Tigrex Greaves
+
+|| 169
+Tigrex Cap
+Tigrex Vest
+Tigrex Guards
+Tigrex Coat
+Tigrex Leggings
+
+|| 170
+Kirin Horn
+Kirin Jacket
+Kirin Longarms
+Kirin Hoop
+Kirin Leg Guards
+
+|| 171
+Kirin Crest
+Kirin Cape
+Kirin Gloves
+Kirin Shorts
+Kirin Boots
+
+|| 172
+Brachydios Helm
+Brachydios Mail
+Brachydios Braces
+Brachydios Faulds
+Brachydios Greaves
+
+|| 173
+Brachydios Cap
+Brachydios Vest
+Brachydios Guards
+Brachydios Coat
+Brachydios Leggings
+
+|| 174
+Arc Helm
+Arc Mail
+Arc Vambraces
+Arc Faulds
+Arc Greaves
+
+|| 175
+Storge Helm
+Storge Mail
+Storge Braces
+Storge Faulds
+Storge Greaves
+
+|| 176
+Arc Cap
+Arc Vest
+Arc Guards
+Arc Coat
+Arc Leggings
+
+|| 177
+Storge Cap
+Storge Vest
+Storge Guards
+Storge Coat
+Storge Leggings
+
+|| 178
+Kushala Glare
+Kushala Cista
+Kushala Grip
+Kushala Cocoon
+Kushala Crus
+
+|| 179
+Kushala Snarl
+Kushala Vise
+Kushala Embrace
+Kushala Wind Wrap
+Kushala Shank
+
+|| 180
+Mizuha Cap
+Mizuha Guards
+Mizuha Sleeves
+Mizuha Sash
+Mizuha Gaiters
+
+|| 181
+Cham Hat
+Cham Camise
+Cham Sleeves
+Cham Coat
+Cham Trousers
+
+|| 182
+Kaiser Crown
+Kaiser Mail
+Kaiser Vambraces
+Kaiser Tassets
+Kaiser Greaves
+
+|| 183
+Kaiser Mask
+Kaiser Vest
+Kaiser Guards
+Kaiser Coat
+Kaiser Leggings
+
+|| 184
+Skeletal Skull
+Skeletal Sternum
+Skeletal Humerus
+Skeletal Hipbone
+Skeletal Femur
+
+|| 185
+Decayed Skull
+Decayed Sternum
+Decayed Humerus
+Decayed Hipbone
+Decayed Femur
+
+|| 186
+Black Head
+Black Hide
+Black Claw
+Black Spine
+Black Feet
+
+|| 187
+Black Face
+Black Skin
+Black Fist
+Black Scale
+Black Legs
+
+|| 188
+Black Belt Helm
+Black Belt Mail
+Black Belt Braces
+Black Belt Tassets
+Black Belt Greaves
+
+|| 189
+Black Belt Cap
+Black Belt Vest
+Black Belt Guards
+Black Belt Coat
+Black Belt Leggings
+
+|| 190
+Guild Bard Lobos
+Guild Bard Bolero
+Guild Bard Braces
+Guild Bard Coil
+Guild Bard Boots
+
+|| 191
+Guild Bard Hat
+Guild Bard Vest
+Guild Bard Sleeves
+Guild Bard Coat
+Guild Bard Gaiters
+
+|| 192
+Maiden's Hat
+Maiden's Suit
+Maiden's Gloves
+Maiden's Skirt
+Maiden's Socks
+
+|| 193
+French Maid Glasses
+French Maid Vest
+French Maid Sleeves
+French Maid Frills
+French Maid Tights
+
+|| 194
+Helper Hood
+Helper Suit
+Helper Sleeves
+Helper Skirt
+Helper Socks
+
+|| 195
+Healer Glasses
+Healer Vest
+Healer Sleeves
+Healer Frills
+Healer Socks
+
+|| 196
+Dianthus Cap
+Dianthus Gown
+Dianthus Sleeves
+Dianthus Skirt
+Dianthus Pants
+
+|| 197
+Campanile Cap
+Campanile Gown
+Campanile Sleeves
+Campanile Skirt
+Campanile Pants
+
+|| 198
+Bath Towel
+Bath Robe
+Bath Sleeves
+(None)
+Bath Sandals
+
+|| 199
+Gourmew Toque
+Gourmew Suit
+Gourmew Gloves
+Gourmew Sarong
+Gourmew Boots
+
+|| 200
+Gourmew Cap
+Gourmew Vest
+Gourmew Mitts
+Gourmew Apron
+Gourmew Paws
+
+|| 201
+Leather Helm S
+Leather Mail S
+Leather Braces S
+Leather Faulds S
+Leather Greaves S
+
+|| 202
+Chainmail Helm S
+Chainmail Armor S
+Chainmail Braces S
+Chainmail Faulds S
+Chainmail Greaves S
+
+|| 203
+Bherna Turban S
+Bherna Mail S
+Bherna Braces S
+Bherna Belt S
+Bherna Greaves S
+
+|| 204
+Bherna Cap S
+Bherna Vest S
+Bherna Guards S
+Bherna Coat S
+Bherna Leggings S
+
+|| 205
+Hunting Helm S
+Hunting Mail S
+Hunting Braces S
+Hunting Faulds S
+Hunting Greaves S
+
+|| 206
+Hunting Cap S
+Hunting Vest S
+Hunting Guards S
+Hunting Coat S
+Hunting Leggings S
+
+|| 207
+Mafumofu Hood S
+Mafumofu Suit S
+Mafumofu Grips S
+Mafumofu Coil S
+Mafumofu Boots S
+
+|| 208
+Mafumofu Cap S
+Mafumofu Jacket S
+Mafumofu Mittens S
+Mafumofu Coat S
+Mafumofu Tights S
+
+|| 209
+Yukumo Sky Kasa
+Yukumo Sky Dogi
+Yukumo Sky Kote
+Yukumo Sky Obi
+Yukumo Sky Hakama
+
+|| 210
+Yukumo Land Kasa
+Yukumo Land Dogi
+Yukumo Land Kote
+Yukumo Land Obi
+Yukumo Land Hakama
+
+|| 211
+(None)
+Loc Lac Shawl S
+(None)
+Loc Lac Kilt S
+Loc Lac Boots S
+
+|| 212
+Hunter's Helm S
+Hunter's Mail S
+Hunter's Vambraces S
+Hunter's Faulds S
+Hunter's Greaves S
+
+|| 213
+Hunter's Cap S
+Hunter's Vest S
+Hunter's Guards S
+Hunter's Coat S
+Hunter's Leggings S
+
+|| 214
+Hunter's Helm R
+Hunter's Mail R
+Hunter's Braces R
+Hunter's Faulds R
+Hunter's Greaves R
+
+|| 215
+Hunter's Cap R
+Hunter's Vest R
+Hunter's Guards R
+Hunter's Coat R
+Hunter's Leggings R
+
+|| 216
+Bone Helm S
+Bone Mail S
+Bone Vambraces S
+Bone Faulds S
+Bone Greaves S
+
+|| 217
+Bone Cap S
+Bone Vest S
+Bone Guards S
+Bone Coat S
+Bone Leggings S
+
+|| 218
+(None)
+(None)
+(None)
+Light Belt S
+(None)
+
+|| 219
+(None)
+(None)
+(None)
+Iron Belt S
+(None)
+
+|| 220
+(None)
+(None)
+(None)
+(None)
+Silver Metal Boots
+
+|| 221
+(None)
+(None)
+(None)
+(None)
+Silver Feet
+
+|| 222
+Chaos Archbun
+Chaos Archplate
+(None)
+(None)
+(None)
+
+|| 223
+Chaos Archdiadem
+Chaos Archbrigandine
+(None)
+(None)
+(None)
+
+|| 224
+Melahoa Hat S
+Melahoa Jacket S
+Melahoa Branch S
+Melahoa Folia S
+Melahoa Roots S
+
+|| 225
+Melahoa Bloom S
+Melahoa Stalk S
+Melahoa Petal S
+Melahoa Trunk S
+Melahoa Taproot S
+
+|| 226
+Melahoa Hat U
+Melahoa Jacket U
+Melahoa Branch U
+Melahoa Folia U
+Melahoa Roots U
+
+|| 227
+Melahoa Bloom U
+Melahoa Stalk U
+Melahoa Petal U
+Melahoa Trunk U
+Melahoa Taproot U
+
+|| 228
+Makluva Hood S
+Makluva Cover S
+Makluva Sleeves S
+Makluva Coil S
+Makluva Pants S
+
+|| 229
+Makluva Gills S
+Makluva Scale S
+Makluva Sucker S
+Makluva Fin S
+Makluva Leggings S
+
+|| 230
+Makluva Hood U
+Makluva Cover U
+Makluva Sleeves U
+Makluva Coil U
+Makluva Pants U
+
+|| 231
+Makluva Gills U
+Makluva Scale U
+Makluva Sucker U
+Makluva Fin U
+Makluva Leggings U
+
+|| 232
+Bistro Toque S
+Bistro Suit S
+(None)
+Bistro Sarong S
+(None)
+
+|| 233
+Bistro Cap S
+Bistro Vest S
+(None)
+Bistro Apron S
+(None)
+
+|| 234
+Acorn Helm S
+Acorn Mail S
+(None)
+(None)
+(None)
+
+|| 235
+Acorn Cap S
+Acorn Vest S
+(None)
+(None)
+(None)
+
+|| 236
+Mosgharl Vizor S
+Mosgharl Ribplate S
+Mosgharl Creeper S
+Mosgharl Folia S
+Mosgharl Roots S
+
+|| 237
+Mosgharl Brim S
+Mosgharl Ribguard S
+Mosgharl Tendril S
+Mosgharl Fronds S
+Mosgharl Radicles S
+
+|| 238
+Edel Vizor S
+Edel Ribplate S
+Edel Creeper S
+Edel Folia S
+Edel Roots S
+
+|| 239
+Edel Bloom S
+Edel Ribguard S
+Edel Tendril S
+Edel Fronds S
+Edel Radicles S
+
+|| 240
+Moofah Head S
+Moofah Suit S
+Moofah Claws S
+Moofah Coil S
+(None)
+
+|| 241
+Moofah Wig S
+Moofah Jacket S
+Moofah Sleeves S
+Moofah Coat S
+(None)
+
+|| 242
+Slagtoth Hood
+Slagtoth Cloak
+(None)
+(None)
+(None)
+
+|| 243
+Slagtoth Cowl
+Slagtoth Wrap
+(None)
+(None)
+(None)
+
+|| 244
+Larinoth Mask S
+(None)
+(None)
+(None)
+(None)
+
+|| 245
+Gargwa Mask S
+(None)
+(None)
+(None)
+(None)
+
+|| 246
+False Felyne S
+(None)
+(None)
+(None)
+(None)
+
+|| 247
+Velociprey Head S
+Velociprey Body S
+Velociprey Claws S
+(None)
+Velociprey Feet S
+
+|| 248
+Velociprey Mask S
+Velociprey Suit S
+Velociprey Gloves S
+(None)
+Velociprey Tights S
+
+|| 249
+Genprey Head S
+Genprey Body S
+Genprey Claws S
+(None)
+Genprey Feet S
+
+|| 250
+Genprey Mask S
+Genprey Suit S
+Genprey Gloves S
+(None)
+Genprey Tights S
+
+|| 251
+Ioprey Head S
+Ioprey Body S
+Ioprey Claws S
+(None)
+Ioprey Feet S
+
+|| 252
+Ioprey Mask S
+Ioprey Wear S
+Ioprey Gloves S
+(None)
+Ioprey Tights S
+
+|| 253
+Remobra Headgear S
+Remobra Suit S
+Remobra Gloves S
+Remobra Belt S
+Remobra Feet S
+
+|| 254
+Remobra Mask S
+Remobra Wear S
+Remobra Hands S
+Remobra Band S
+Remobra Tights S
+
+|| 255
+(None)
+(None)
+Trapper's Gauntlets S
+(None)
+Trapper's Shinguards S
+
+|| 256
+(None)
+(None)
+Trapper's Gloves S
+(None)
+Trapper's Boots S
+
+|| 257
+(None)
+(None)
+Maccao Gauntlets S
+(None)
+Maccao Shinguards S
+
+|| 258
+(None)
+(None)
+Maccao Gloves S
+(None)
+Maccao Boots S
+
+|| 259
+(None)
+(None)
+Jaggi Gauntlets S
+(None)
+Jaggi Shinguards S
+
+|| 260
+(None)
+(None)
+Jaggi Gloves S
+(None)
+Jaggi Boots S
+
+|| 261
+Mosswine Mask S
+Mosswine Vest S
+Mosswine Gloves S
+Mosswine Hip S
+Mosswine Feet S
+
+|| 262
+Rhenoplos Helm S
+Rhenoplos Mail S
+Rhenoplos Braces S
+Rhenoplos Coil S
+Rhenoplos Greaves S
+
+|| 263
+Rhenoplos Cap S
+Rhenoplos Vest S
+Rhenoplos Guards S
+Rhenoplos Coat S
+Rhenoplos Leggings S
+
+|| 264
+Jaggi Helm S
+Jaggi Mail S
+Jaggi Vambraces S
+Jaggi Faulds S
+Jaggi Greaves S
+
+|| 265
+Jaggi Cap S
+Jaggi Vest S
+Jaggi Guards S
+Jaggi Coat S
+Jaggi Leggings S
+
+|| 266
+(None)
+Droth Mail S
+(None)
+Droth Faulds S
+Droth Greaves S
+
+|| 267
+(None)
+Droth Vest S
+(None)
+Droth Coat S
+Droth Leggings S
+
+|| 268
+(None)
+Uroktor Torso S
+(None)
+Uroktor Tassets S
+(None)
+
+|| 269
+(None)
+Uroktor Vest S
+(None)
+Uroktor Coat S
+(None)
+
+|| 270
+Maccao Helm S
+Maccao Mail S
+Maccao Braces S
+Maccao Faulds S
+Maccao Greaves S
+
+|| 271
+Maccao Cap S
+Maccao Vest S
+Maccao Guards S
+Maccao Coat S
+Maccao Leggings S
+
+|| 272
+Velociprey Helm S
+Velociprey Mail S
+Velociprey Braces S
+Velociprey Tassets S
+Velociprey Greaves S
+
+|| 273
+Velociprey Cap S
+Velociprey Vest S
+Velociprey Guards S
+Velociprey Coat S
+Velociprey Leggings S
+
+|| 274
+Giaprey Helm S
+Giaprey Mail S
+Giaprey Braces S
+Giaprey Faulds S
+Giaprey Greaves S
+
+|| 275
+Giaprey Cap S
+Giaprey Vest S
+Giaprey Guards S
+Giaprey Coat S
+Giaprey Leggings S
+
+|| 276
+Genprey Helm S
+Genprey Mail S
+Genprey Vambraces S
+Genprey Tassets S
+Genprey Greaves S
+
+|| 277
+Genprey Cap S
+Genprey Vest S
+Genprey Guards S
+Genprey Coat S
+Genprey Leggings S
+
+|| 278
+EX Genprey Helm
+EX Genprey Mail
+EX Genprey Braces
+EX Genprey Tassets
+EX Genprey Greaves
+
+|| 279
+EX Genprey Cap
+EX Genprey Vest
+EX Genprey Guards
+EX Genprey Coat
+EX Genprey Leggings
+
+|| 280
+Ioprey Helm S
+Ioprey Mail S
+Ioprey Vambraces S
+Ioprey Tassets S
+Ioprey Greaves S
+
+|| 281
+Ioprey Cap S
+Ioprey Vest S
+Ioprey Guards S
+Ioprey Coat S
+Ioprey Leggings S
+
+|| 282
+EX Ioprey Helm
+EX Ioprey Mail
+EX Ioprey Vambraces
+EX Ioprey Tassets
+EX Ioprey Greaves
+
+|| 283
+EX Ioprey Cap
+EX Ioprey Vest
+EX Ioprey Guards
+EX Ioprey Coat
+EX Ioprey Leggings
+
+|| 284
+Vespoid Helm S
+Vespoid Mail S
+Vespoid Vambraces S
+Vespoid Tassets S
+Vespoid Greaves S
+
+|| 285
+Vespoid Cap S
+Vespoid Vest S
+Vespoid Guards S
+Vespoid Coat S
+Vespoid Leggings S
+
+|| 286
+EX Vespoid Helm
+EX Vespoid Mail
+EX Vespoid Vambraces
+EX Vespoid Tassets
+EX Vespoid Greaves
+
+|| 287
+EX Vespoid Cap
+EX Vespoid Vest
+EX Vespoid Guards
+EX Vespoid Coat
+EX Vespoid Leggings
+
+|| 288
+Hornetaur Helm S
+Hornetaur Mail S
+Hornetaur Braces S
+Hornetaur Tassets S
+Hornetaur Greaves S
+
+|| 289
+Hornetaur Cap S
+Hornetaur Vest S
+Hornetaur Guards S
+Hornetaur Coat S
+Hornetaur Leggings S
+
+|| 290
+EX Hornetaur Helm
+EX Hornetaur Mail
+EX Hornetaur Braces
+EX Hornetaur Tassets
+EX Hornetaur Greaves
+
+|| 291
+EX Hornetaur Cap
+EX Hornetaur Vest
+EX Hornetaur Guards
+EX Hornetaur Coat
+EX Hornetaur Leggings
+
+|| 292
+Hornetaur Helm R
+Hornetaur Mail R
+Hornetaur Braces R
+Hornetaur Tassets R
+Hornetaur Greaves R
+
+|| 293
+Hornetaur Cap R
+Hornetaur Vest R
+Hornetaur Guards R
+Hornetaur Coat R
+Hornetaur Leggings R
+
+|| 294
+Bnahabra Hat S
+Bnahabra Suit S
+Bnahabra Gloves S
+Bnahabra Coil S
+Bnahabra Boots S
+
+|| 295
+Bnahabra Headpiece S
+Bnahabra Vest S
+Bnahabra Sleeves S
+Bnahabra Coat S
+Bnahabra Pants S
+
+|| 296
+Konchu Helm S
+(None)
+Konchu Braces S
+(None)
+(None)
+
+|| 297
+Konchu Cap S
+(None)
+Konchu Guards S
+(None)
+(None)
+
+|| 298
+Bulldrome Helm S
+Bulldrome Mail S
+Bulldrome Braces S
+Bulldrome Faulds S
+Bulldrome Greaves S
+
+|| 299
+Bulldrome Cap S
+Bulldrome Vest S
+Bulldrome Guards S
+Bulldrome Coat S
+Bulldrome Leggings S
+
+|| 300
+Bulldrome Mask S
+(None)
+(None)
+(None)
+(None)
+
+|| 301
+Arzuros Helm S
+Arzuros Mail S
+Arzuros Vambraces S
+Arzuros Faulds S
+Arzuros Greaves S
+
+|| 302
+Arzuros Cap S
+Arzuros Vest S
+Arzuros Guards S
+Arzuros Coat S
+Arzuros Leggings S
+
+|| 303
+Cephalos Helm S
+Cephalos Mail S
+Cephalos Vambraces S
+Cephalos Tassets S
+Cephalos Greaves S
+
+|| 304
+Cephalos Cap S
+Cephalos Vest S
+Cephalos Guards S
+Cephalos Coat S
+Cephalos Leggings S
+
+|| 305
+EX Cephalos Helm
+EX Cephalos Mail
+EX Cephalos Braces
+EX Cephalos Tassets
+EX Cephalos Greaves
+
+|| 306
+EX Cephalos Cap
+EX Cephalos Vest
+EX Cephalos Guards
+EX Cephalos Coat
+EX Cephalos Leggings
+
+|| 307
+Kut-Ku Helm S
+Kut-Ku Mail S
+Kut-Ku Vambraces S
+Kut-Ku Tassets S
+Kut-Ku Greaves S
+
+|| 308
+Kut-Ku Cap S
+Kut-Ku Vest S
+Kut-Ku Guards S
+Kut-Ku Coat S
+Kut-Ku Leggings S
+
+|| 309
+Kecha Helm
+Kecha Mail
+Kecha Vambraces
+Kecha Faulds
+Kecha Greaves
+
+|| 310
+Kecha Cap
+Kecha Vest
+Kecha Guards
+Kecha Coat
+Kecha Leggings
+
+|| 311
+Lagombi Helm S
+Lagombi Mail S
+Lagombi Vambraces S
+Lagombi Faulds S
+Lagombi Greaves S
+
+|| 312
+Lagombi Cap S
+Lagombi Vest S
+Lagombi Guards S
+Lagombi Coat S
+Lagombi Leggings S
+
+|| 313
+Gypceros Helm S
+Gypceros Mail S
+Gypceros Braces S
+Gypceros Tassets S
+Gypceros Greaves S
+
+|| 314
+Gypceros Cap S
+Gypceros Vest S
+Gypceros Guards S
+Gypceros Coat S
+Gypceros Leggings S
+
+|| 315
+Gypceros Helm R
+Gypceros Mail R
+Gypceros Braces R
+Gypceros Tassets R
+Gypceros Greaves R
+
+|| 316
+Gypceros Cap R
+Gypceros Vest R
+Gypceros Guards R
+Gypceros Coat R
+Gypceros Leggings R
+
+|| 317
+Tetsucabra Helm S
+Tetsucabra Mail S
+Tetsucabra Braces S
+Tetsucabra Faulds S
+Tetsucabra Greaves S
+
+|| 318
+Tetsucabra Cap S
+Tetsucabra Vest S
+Tetsucabra Guards S
+Tetsucabra Coat S
+Tetsucabra Leggings S
+
+|| 319
+Hermitaur Helm S
+Hermitaur Mail S
+Hermitaur Braces S
+Hermitaur Tassets S
+Hermitaur Greaves S
+
+|| 320
+Hermitaur Cap S
+Hermitaur Vest S
+Hermitaur Guards S
+Hermitaur Coat S
+Hermitaur Leggings S
+
+|| 321
+EX Hermitaur Helm
+EX Hermitaur Mail
+EX Hermitaur Braces
+EX Hermitaur Tassets
+EX Hermitaur Greaves
+
+|| 322
+EX Hermitaur Cap
+EX Hermitaur Vest
+EX Hermitaur Guards
+EX Hermitaur Coat
+EX Hermitaur Leggings
+
+|| 323
+Hermitaur Helm R
+Hermitaur Mail R
+Hermitaur Braces R
+Hermitaur Tassets R
+Hermitaur Greaves R
+
+|| 324
+Hermitaur Cap R
+Hermitaur Vest R
+Hermitaur Guards R
+Hermitaur Coat R
+Hermitaur Leggings R
+
+|| 325
+Volvidon Helm S
+Volvidon Mail S
+Volvidon Vambraces S
+Volvidon Faulds S
+Volvidon Greaves S
+
+|| 326
+Volvidon Cap S
+Volvidon Vest S
+Volvidon Guards S
+Volvidon Coat S
+Volvidon Leggings S
+
+|| 327
+Ludroth Helm S
+Ludroth Mail S
+Ludroth Braces S
+Ludroth Faulds S
+Ludroth Greaves S
+
+|| 328
+Ludroth Cap S
+Ludroth Vest S
+Ludroth Guards S
+Ludroth Coat S
+Ludroth Leggings S
+
+|| 329
+Ludroth Helm R
+Ludroth Mail R
+Ludroth Braces R
+Ludroth Tassets R
+Ludroth Greaves R
+
+|| 330
+Ludroth Cap R
+Ludroth Vest R
+Ludroth Guards R
+Ludroth Coat R
+Ludroth Leggings R
+
+|| 331
+Lecturer's Hood
+Lecturer's Suit
+Lecturer's Braces
+Lecturer's Skirt
+Lecturer's Boots
+
+|| 332
+Lecturer's Cap
+Lecturer's Jacket
+Lecturer's Guards
+Lecturer's Frills
+Lecturer's Footwear
+
+|| 333
+Alloy Helm S
+Alloy Mail S
+Alloy Vambraces S
+Alloy Coil S
+Alloy Greaves S
+
+|| 334
+Alloy Cap S
+Alloy Vest S
+Alloy Guards S
+Alloy Coat S
+Alloy Leggings S
+
+|| 335
+Alloy Helm R
+Alloy Mail R
+Alloy Braces R
+Alloy Coil R
+Alloy Greaves R
+
+|| 336
+Alloy Cap R
+Alloy Vest R
+Alloy Guards R
+Alloy Coat R
+Alloy Leggings R
+
+|| 337
+Battle Helm S
+Battle Mail S
+Battle Vambraces S
+Battle Tassets S
+Battle Greaves S
+
+|| 338
+Battle Cap S
+Battle Vest S
+Battle Guards S
+Battle Coat S
+Battle Leggings S
+
+|| 339
+Ingot Helm S
+Ingot Mail S
+Ingot Vambraces S
+Ingot Coil S
+Ingot Greaves S
+
+|| 340
+Ingot Cap S
+Ingot Vest S
+Ingot Guards S
+Ingot Coat S
+Ingot Leggings S
+
+|| 341
+Ingot Helm R
+Ingot Mail R
+Ingot Vambraces R
+Ingot Coil R
+Ingot Greaves R
+
+|| 342
+Ingot Cap R
+Ingot Vest R
+Ingot Guards R
+Ingot Coat R
+Ingot Leggings R
+
+|| 343
+High Metal Helm S
+High Metal Mail S
+High Metal Braces S
+High Metal Tassets S
+High Metal Greaves S
+
+|| 344
+High Metal Cap S
+High Metal Vest S
+High Metal Guards S
+High Metal Coat S
+High Metal Leggings S
+
+|| 345
+High Metal Helm U
+High Metal Mail U
+High Metal Braces U
+High Metal Tassets U
+High Metal Greaves U
+
+|| 346
+High Metal Cap U
+High Metal Vest U
+High Metal Guards U
+High Metal Coat U
+High Metal Leggings U
+
+|| 347
+(None)
+(None)
+(None)
+(None)
+Pink Metal Boots
+
+|| 348
+(None)
+(None)
+(None)
+(None)
+Pink Metal Feet
+
+|| 349
+Lobster Helm
+Lobster Mail
+Lobster Vambraces
+Lobster Coil
+Lobster Greaves
+
+|| 350
+Lobster Cap
+Lobster Vest
+Lobster Guards
+Lobster Coat
+Lobster Leggings
+
+|| 351
+Obituary Vertex S
+Obituary Thorax S
+Obituary Brachia S
+Obituary Elytra S
+Obituary Crura S
+
+|| 352
+Obituary Clypeus S
+Obituary Pleuron S
+Obituary Manus S
+Obituary Alae S
+Obituary Tarsi S
+
+|| 353
+Butterfly Vertex S
+Butterfly Thorax S
+Butterfly Brachia S
+Butterfly Elytra S
+Butterfly Crura S
+
+|| 354
+Butterfly Clypeus S
+Butterfly Pleuron S
+Butterfly Manus S
+Butterfly Alae S
+Butterfly Tarsi S
+
+|| 355
+Death Stench Brain S
+Death Stench Muscle S
+Death Stench Grip S
+Death Stench Bowels S
+Death Stench Heel S
+
+|| 356
+Death Stench Soul S
+Death Stench Heart S
+Death Stench Grasp S
+Death Stench Belly S
+Death Stench March S
+
+|| 357
+Death Stench Brain R
+Death Stench Muscle R
+Death Stench Grip R
+Death Stench Bowels R
+Death Stench Heel R
+
+|| 358
+Death Stench Soul R
+Death Stench Heart R
+Death Stench Grasp R
+Death Stench Belly R
+Death Stench March R
+
+|| 359
+Vaik Helm S
+Vaik Mail S
+Vaik Braces S
+Vaik Faulds S
+Vaik Greaves S
+
+|| 360
+Vaik Cap S
+Vaik Vest S
+Vaik Guards S
+Vaik Coat S
+Vaik Leggings S
+
+|| 361
+Aelucanth Vertex S
+Aelucanth Thorax S
+Aelucanth Brachia S
+Aelucanth Elytra S
+Aelucanth Crura S
+
+|| 362
+Aelucanth Clypeus S
+Aelucanth Pleuron S
+Aelucanth Manus S
+Aelucanth Alae S
+Aelucanth Tarsi S
+
+|| 363
+Rhopessa Vertex S
+Rhopessa Thorax S
+Rhopessa Brachia S
+Rhopessa Elytra S
+Rhopessa Crura S
+
+|| 364
+Rhopessa Clypeus S
+Rhopessa Pleuron S
+Rhopessa Manus S
+Rhopessa Alae S
+Rhopessa Tarsi S
+
+|| 365
+Patissier's Toque
+Patissier's Suit
+Patissier's Gloves
+Patissier's Sarong
+Patissier's Boots
+
+|| 366
+Patissier's Cap
+Patissier's Vest
+Patissier's Mitts
+Patissier's Apron
+Patissier's Footwear
+
+|| 367
+Skalda Vertex S
+Skalda Thorax S
+Skalda Brachia S
+Skalda Elytra S
+Skalda Crura S
+
+|| 368
+Skalda Clypeus S
+Skalda Pleuron S
+Skalda Manus S
+Skalda Alae S
+Skalda Tarsi S
+
+|| 369
+Spio Vertex S
+Spio Thorax S
+Spio Brachia S
+Spio Elytra S
+Spio Crura S
+
+|| 370
+Spio Clypeus S
+Spio Pleuron S
+Spio Manus S
+Spio Alae S
+Spio Tarsi S
+
+|| 371
+Malfestio Helm S
+Malfestio Mail S
+Malfestio Braces S
+Malfestio Faulds S
+Malfestio Greaves S
+
+|| 372
+Malfestio Cap S
+Malfestio Vest S
+Malfestio Guards S
+Malfestio Coat S
+Malfestio Leggings S
+
+|| 373
+Zamtrios Helm
+Zamtrios Mail
+Zamtrios Braces
+Zamtrios Faulds
+Zamtrios Greaves
+
+|| 374
+Zamtrios Cap
+Zamtrios Vest
+Zamtrios Guards
+Zamtrios Coat
+Zamtrios Leggings
+
+|| 375
+Khezu Helm S
+Khezu Mail S
+Khezu Vambraces S
+Khezu Tassets S
+Khezu Greaves S
+
+|| 376
+Khezu Cap S
+Khezu Vest S
+Khezu Guards S
+Khezu Coat S
+Khezu Leggings S
+
+|| 377
+Khezu Helm R
+Khezu Mail R
+Khezu Braces R
+Khezu Tassets R
+Khezu Greaves R
+
+|| 378
+Khezu Cap R
+Khezu Vest R
+Khezu Guards R
+Khezu Coat R
+Khezu Leggings R
+
+|| 379
+Rathian Helm S
+Rathian Mail S
+Rathian Braces S
+Rathian Faulds S
+Rathian Greaves S
+
+|| 380
+Rathian Cap S
+Rathian Vest S
+Rathian Guards S
+Rathian Coat S
+Rathian Leggings S
+
+|| 381
+EX Rathian Helm
+EX Rathian Mail
+EX Rathian Braces
+EX Rathian Faulds
+EX Rathian Greaves
+
+|| 382
+EX Rathian Cap
+EX Rathian Vest
+EX Rathian Guards
+EX Rathian Coat
+EX Rathian Leggings
+
+|| 383
+Rathian Helm R
+Rathian Mail R
+Rathian Braces R
+Rathian Faulds R
+Rathian Greaves R
+
+|| 384
+Rathian Cap R
+Rathian Vest R
+Rathian Guards R
+Rathian Coat R
+Rathian Leggings R
+
+|| 385
+Nibelsnarf Helm S
+Nibelsnarf Mail S
+Nibelsnarf Braces S
+Nibelsnarf Faulds S
+Nibelsnarf Greaves S
+
+|| 386
+Nibelsnarf Cap S
+Nibelsnarf Vest S
+Nibelsnarf Guards S
+Nibelsnarf Coat S
+Nibelsnarf Leggings S
+
+|| 387
+Plesioth Helm
+Plesioth Mail
+Plesioth Vambraces
+(None)
+Plesioth Greaves
+
+|| 388
+Plesioth Cap
+Plesioth Vest
+Plesioth Guards
+(None)
+Plesioth Leggings
+
+|| 389
+Blango Helm S
+Blango Mail S
+Blango Vambraces S
+Blango Tassets S
+Blango Greaves S
+
+|| 390
+Blango Cap S
+Blango Vest S
+Blango Guards S
+Blango Coat S
+Blango Leggings S
+
+|| 391
+EX Blango Helm
+EX Blango Mail
+EX Blango Braces
+EX Blango Tassets
+EX Blango Greaves
+
+|| 392
+EX Blango Cap
+EX Blango Vest
+EX Blango Guards
+EX Blango Coat
+EX Blango Leggings
+
+|| 393
+Lavasioth Helm
+Lavasioth Mail
+Lavasioth Braces
+Lavasioth Tassets
+Lavasioth Greaves
+
+|| 394
+Lavasioth Cap
+Lavasioth Vest
+Lavasioth Guards
+Lavasioth Coat
+Lavasioth Leggings
+
+|| 395
+EX Lavasioth Helm
+EX Lavasioth Mail
+EX Lavasioth Braces
+EX Lavasioth Tassets
+EX Lavasioth Greaves
+
+|| 396
+EX Lavasioth Cap
+EX Lavasioth Vest
+EX Lavasioth Guards
+EX Lavasioth Coat
+EX Lavasioth Leggings
+
+|| 397
+Ceanataur Helm S
+Ceanataur Mail S
+Ceanataur Braces S
+Ceanataur Tassets S
+Ceanataur Greaves S
+
+|| 398
+Ceanataur Cap S
+Ceanataur Vest S
+Ceanataur Guards S
+Ceanataur Coat S
+Ceanataur Leggings S
+
+|| 399
+EX Ceanataur Helm
+EX Ceanataur Mail
+EX Ceanataur Braces
+EX Ceanataur Tassets
+EX Ceanataur Greaves
+
+|| 400
+EX Ceanataur Cap
+EX Ceanataur Vest
+EX Ceanataur Guards
+EX Ceanataur Coat
+EX Ceanataur Leggings
+
+|| 401
+Ceanataur Helm R
+Ceanataur Mail R
+Ceanataur Braces R
+Ceanataur Tassets R
+Ceanataur Greaves R
+
+|| 402
+Ceanataur Cap R
+Ceanataur Vest R
+Ceanataur Guards R
+Ceanataur Coat R
+Ceanataur Leggings R
+
+|| 403
+Najarala Helm S
+Najarala Mail S
+Najarala Braces S
+Najarala Faulds S
+Najarala Greaves S
+
+|| 404
+Najarala Cap S
+Najarala Vest S
+Najarala Guards S
+Najarala Coat S
+Najarala Leggings S
+
+|| 405
+Nargacuga Helm S
+Nargacuga Mail S
+Nargacuga Braces S
+Nargacuga Tassets S
+Nargacuga Greaves S
+
+|| 406
+Nargacuga Cap S
+Nargacuga Vest S
+Nargacuga Guards S
+Nargacuga Coat S
+Nargacuga Leggings S
+
+|| 407
+Garuga Helm S
+Garuga Mail S
+Garuga Vambraces S
+Garuga Tassets S
+Garuga Greaves S
+
+|| 408
+Garuga Cap S
+Garuga Vest S
+Garuga Guards S
+Garuga Coat S
+Garuga Leggings S
+
+|| 409
+Garuga Mask S
+(None)
+(None)
+(None)
+(None)
+
+|| 410
+Uragaan Helm S
+Uragaan Mail S
+Uragaan Vambraces S
+Uragaan Faulds S
+Uragaan Greaves S
+
+|| 411
+Uragaan Cap S
+Uragaan Vest S
+Uragaan Guards S
+Uragaan Coat S
+Uragaan Leggings S
+
+|| 412
+Black Belt Helm S
+Black Belt Mail S
+Black Belt Braces S
+Black Belt Tassets S
+Black Belt Greaves S
+
+|| 413
+Black Belt Cap S
+Black Belt Vest S
+Black Belt Guards S
+Black Belt Coat S
+Black Belt Leggings S
+
+|| 414
+Guardian Helm
+Guardian Suit
+Guardian Braces
+Guardian Coil
+Guardian Boots
+
+|| 415
+Guardian Mask
+Guardian Vest
+Guardian Guards
+Guardian Coat
+Guardian Pants
+
+|| 416
+Guardian Helm U
+Guardian Suit U
+Guardian Braces U
+Guardian Coil U
+Guardian Boots U
+
+|| 417
+Guardian Mask U
+Guardian Vest U
+Guardian Guards U
+Guardian Coat U
+Guardian Pants U
+
+|| 418
+Scholar's Beret
+Scholar's Blouse
+Scholar's Gloves
+Scholar's Skirt
+Scholar's Socks
+
+|| 419
+Scholar's Cap
+Scholar's Vest
+Scholar's Sleeves
+Scholar's Mini
+Scholar's Sandals
+
+|| 420
+Sailor Hat
+Sailor Suit
+Sailor Gloves
+Sailor Skirt
+Sailor Socks
+
+|| 421
+Sailor Cap
+Sailor Vest
+Sailor Sleeves
+Sailor Mini
+Sailor Sandals
+
+|| 422
+Luxury Bath Towel
+Luxury Bath Robe
+Luxury Bath Sleeves
+(None)
+Luxury Bath Sandals
+
+|| 423
+Kita Star Headdress
+Kita Star Jacket
+Kita Star Sleeves
+(None)
+Kita Star Hakama
+
+|| 424
+Umi Ocean Headdress
+Umi Ocean Jacket
+Umi Ocean Sleeves
+(None)
+Umi Ocean Hakama
+
+|| 425
+Cunning Specs
+(None)
+(None)
+(None)
+(None)
+
+|| 426
+Derring Helm S
+Derring Mail S
+Derring Vambraces S
+Derring Faulds S
+Derring Greaves S
+
+|| 427
+Derring Cap S
+Derring Vest S
+Derring Guards S
+Derring Coat S
+Derring Leggings S
+
+|| 428
+Dober Helm
+Dober Mail
+Dober Vambraces
+Dober Coil
+Dober Greaves
+
+|| 429
+Dober Cap
+Dober Vest
+Dober Guards
+Dober Coat
+Dober Leggings
+
+|| 430
+Damascus Helm
+Damascus Mail
+Damascus Vambraces
+Damascus Coil
+Damascus Greaves
+
+|| 431
+Damascus Cap
+Damascus Vest
+Damascus Guards
+Damascus Coat
+Damascus Leggings
+
+|| 432
+Damascus Helm R
+Damascus Mail R
+Damascus Braces R
+Damascus Coil R
+Damascus Greaves R
+
+|| 433
+Damascus Cap R
+Damascus Vest R
+Damascus Guards R
+Damascus Coat R
+Damascus Leggings R
+
+|| 434
+Skull Visage S
+(None)
+(None)
+(None)
+(None)
+
+|| 435
+Skull Mask S
+(None)
+(None)
+(None)
+(None)
+
+|| 436
+(None)
+(None)
+(None)
+(None)
+Dark Metal Boots
+
+|| 437
+(None)
+(None)
+(None)
+(None)
+Dark Metal Feet
+
+|| 438
+(None)
+(None)
+(None)
+Chrome Metal Coil
+Chrome Metal Boots
+
+|| 439
+(None)
+(None)
+(None)
+Chrome Metal Coat
+Chrome Metal Feet
+
+|| 440
+Artian Helm S
+Artian Mail S
+Artian Braces S
+Artian Coil S
+Artian Greaves S
+
+|| 441
+Artian Cap S
+Artian Vest S
+Artian Guards S
+Artian Coat S
+Artian Leggings S
+
+|| 442
+Artian Helm R
+Artian Mail R
+Artian Braces R
+Artian Coil R
+Artian Greaves R
+
+|| 443
+Artian Cap R
+Artian Vest R
+Artian Guards R
+Artian Coat R
+Artian Leggings R
+
+|| 444
+Seltas Helm
+Seltas Mail
+Seltas Vambraces
+Seltas Faulds
+Seltas Greaves
+
+|| 445
+Seltas Cap
+Seltas Vest
+Seltas Guards
+Seltas Coat
+Seltas Leggings
+
+|| 446
+Rathalos Helm S
+Rathalos Mail S
+Rathalos Braces S
+Rathalos Faulds S
+Rathalos Greaves S
+
+|| 447
+Rathalos Cap S
+Rathalos Vest S
+Rathalos Guards S
+Rathalos Coat S
+Rathalos Leggings S
+
+|| 448
+EX Rathalos Helm
+EX Rathalos Mail
+EX Rathalos Braces
+EX Rathalos Faulds
+EX Rathalos Greaves
+
+|| 449
+EX Rathalos Cap
+EX Rathalos Vest
+EX Rathalos Guards
+EX Rathalos Coat
+EX Rathalos Leggings
+
+|| 450
+Rathalos Helm R
+Rathalos Mail R
+Rathalos Braces R
+Rathalos Faulds R
+Rathalos Greaves R
+
+|| 451
+Rathalos Cap R
+Rathalos Vest R
+Rathalos Guards R
+Rathalos Coat R
+Rathalos Leggings R
+
+|| 452
+Lagiacrus Helm S
+Lagiacrus Mail S
+Lagiacrus Braces S
+Lagiacrus Faulds S
+Lagiacrus Greaves S
+
+|| 453
+Lagiacrus Cap S
+Lagiacrus Vest S
+Lagiacrus Guards S
+Lagiacrus Coat S
+Lagiacrus Leggings S
+
+|| 454
+Lagiacrus Helm R
+Lagiacrus Mail R
+Lagiacrus Braces R
+Lagiacrus Faulds R
+Lagiacrus Greaves R
+
+|| 455
+Lagiacrus Cap R
+Lagiacrus Vest R
+Lagiacrus Guards R
+Lagiacrus Coat R
+Lagiacrus Leggings R
+
+|| 456
+Zinogre Helm S
+Zinogre Mail S
+Zinogre Braces S
+Zinogre Faulds S
+Zinogre Greaves S
+
+|| 457
+Zinogre Cap S
+Zinogre Vest S
+Zinogre Guards S
+Zinogre Coat S
+Zinogre Leggings S
+
+|| 458
+EX Zinogre Helm
+EX Zinogre Mail
+EX Zinogre Braces
+EX Zinogre Faulds
+EX Zinogre Greaves
+
+|| 459
+EX Zinogre Cap
+EX Zinogre Vest
+EX Zinogre Guards
+EX Zinogre Coat
+EX Zinogre Leggings
+
+|| 460
+Mizutsune Helm S
+Mizutsune Mail S
+Mizutsune Braces S
+Mizutsune Faulds S
+Mizutsune Greaves S
+
+|| 461
+Mizutsune Mask S
+Mizutsune Vest S
+Mizutsune Guards S
+Mizutsune Coat S
+Mizutsune Leggings S
+
+|| 462
+Astalos Helm S
+Astalos Mail S
+Astalos Braces S
+Astalos Faulds S
+Astalos Greaves S
+
+|| 463
+Astalos Cap S
+Astalos Vest S
+Astalos Guards S
+Astalos Coat S
+Astalos Leggings S
+
+|| 464
+Gammoth Helm S
+Gammoth Mail S
+Gammoth Braces S
+Gammoth Faulds S
+Gammoth Greaves S
+
+|| 465
+Gammoth Cap S
+Gammoth Vest S
+Gammoth Guards S
+Gammoth Coat S
+Gammoth Leggings S
+
+|| 466
+Glavenus Helm S
+Glavenus Mail S
+Glavenus Braces S
+Glavenus Faulds S
+Glavenus Greaves S
+
+|| 467
+Glavenus Cap S
+Glavenus Vest S
+Glavenus Guards S
+Glavenus Coat S
+Glavenus Leggings S
+
+|| 468
+Agnaktor Helm
+Agnaktor Mail
+Agnaktor Vambraces
+Agnaktor Faulds
+Agnaktor Greaves
+
+|| 469
+Agnaktor Cap
+Agnaktor Vest
+Agnaktor Guards
+Agnaktor Coat
+Agnaktor Leggings
+
+|| 470
+Gore Helm S
+Gore Mail S
+Gore Braces S
+Gore Faulds S
+Gore Greaves S
+
+|| 471
+Gore Cap S
+Gore Vest S
+Gore Guards S
+Gore Coat S
+Gore Leggings S
+
+|| 472
+EX Gore Helm
+EX Gore Mail
+EX Gore Braces
+EX Gore Faulds
+EX Gore Greaves
+
+|| 473
+EX Gore Cap
+EX Gore Vest
+EX Gore Guards
+EX Gore Coat
+EX Gore Leggings
+
+|| 474
+Gore Helm R
+Gore Mail R
+Gore Braces R
+Gore Faulds R
+Gore Greaves R
+
+|| 475
+Gore Cap R
+Gore Vest R
+Gore Guards R
+Gore Coat R
+Gore Leggings R
+
+|| 476
+Regios Helm S
+Regios Mail S
+Regios Vambraces S
+Regios Tassets S
+Regios Greaves S
+
+|| 477
+Regios Cap S
+Regios Vest S
+Regios Guards S
+Regios Coat S
+Regios Leggings S
+
+|| 478
+Duramboros Helm
+Duramboros Mail
+Duramboros Braces
+Duramboros Faulds
+Duramboros Greaves
+
+|| 479
+Duramboros Cap
+Duramboros Vest
+Duramboros Guards
+Duramboros Coat
+Duramboros Leggings
+
+|| 480
+Tigrex Helm S
+Tigrex Mail S
+Tigrex Braces S
+Tigrex Tassets S
+Tigrex Greaves S
+
+|| 481
+Tigrex Cap S
+Tigrex Vest S
+Tigrex Guards S
+Tigrex Coat S
+Tigrex Leggings S
+
+|| 482
+EX Tigrex Helm
+EX Tigrex Mail
+EX Tigrex Braces
+EX Tigrex Tassets
+EX Tigrex Greaves
+
+|| 483
+EX Tigrex Cap
+EX Tigrex Vest
+EX Tigrex Guards
+EX Tigrex Coat
+EX Tigrex Leggings
+Traditional head armor
+forged from Tigrex spoils.
+
+|| 484
+Tigrex Helm R
+Tigrex Mail R
+Tigrex Braces R
+Tigrex Tassets R
+Tigrex Greaves R
+
+|| 485
+Tigrex Cap R
+Tigrex Vest R
+Tigrex Guards R
+Tigrex Coat R
+Tigrex Leggings R
+
+|| 486
+Kirin Horn S
+Kirin Jacket S
+Kirin Longarms S
+Kirin Hoop S
+Kirin Leg Guards S
+
+|| 487
+Kirin Crest S
+Kirin Cape S
+Kirin Gloves S
+Kirin Shorts S
+Kirin Boots S
+
+|| 488
+Kirin Horn R
+Kirin Jacket R
+Kirin Longarms R
+Kirin Hoop R
+Kirin Leg Guards R
+
+|| 489
+Kirin Crest R
+Kirin Cape R
+Kirin Gloves R
+Kirin Shorts R
+Kirin Boots R
+
+|| 490
+Brachydios Helm S
+Brachydios Mail S
+Brachydios Braces S
+Brachydios Faulds S
+Brachydios Greaves S
+
+|| 491
+Brachydios Cap S
+Brachydios Vest S
+Brachydios Guards S
+Brachydios Coat S
+Brachy Leggings S
+
+|| 492
+EX Brachydios Helm
+EX Brachydios Mail
+EX Brachydios Braces
+EX Brachydios Faulds
+EX Brachydios Greaves
+
+|| 493
+EX Brachydios Cap
+EX Brachydios Vest
+EX Brachydios Guards
+EX Brachydios Coat
+EX Brachydios Leggings
+
+|| 494
+Golden Headdress
+Golden Haori
+Golden Kote
+Golden Obi
+Golden Hakama
+
+|| 495
+Puppeteer Mask
+Puppeteer Suit
+Puppeteer Gloves
+Puppeteer Obi
+Puppeteer Tabi
+
+|| 496
+Vangis Helm
+Vangis Mail
+Vangis Vambraces
+Vangis Coil
+Vangis Greaves
+
+|| 497
+Vangis Cap
+Vangis Vest
+Vangis Guards
+Vangis Coat
+Vangis Leggings
+
+|| 498
+Guild Knight Feather
+Guild Knight Suit
+Guild Knight Gloves
+Guild Knight Coat
+Guild Knight Boots
+
+|| 499
+Guild Knight Mask
+Guild Knight Vest
+Guild Knight Sleeves
+Guild Knight Kilt
+Guild Knight Tights
+
+|| 500
+Maiden's Hat S
+Maiden's Suit S
+Maiden's Gloves S
+Maiden's Skirt S
+Maiden's Socks S
+
+|| 501
+French Maid Glasses S
+French Maid Vest S
+French Maid Sleeves S
+French Maid Frills S
+French Maid Tights S
+
+|| 502
+Blue Guild Tricorne
+Blue Guild Suit
+Blue Guild Gloves
+Blue Guild Coil
+Blue Guild Boots
+
+|| 503
+Blue Guild Mask
+Blue Guild Vest
+Blue Guild Sleeves
+Blue Guild Coat
+Blue Guild Tights
+
+|| 504
+Red Guild Tricorne
+Red Guild Suit
+Red Guild Gloves
+Red Guild Coil
+Red Guild Boots
+
+|| 505
+Red Guild Mask
+Red Guild Vest
+Red Guild Sleeves
+Red Guild Coat
+Red Guild Tights
+
+|| 506
+Helper Hood S
+Helper Suit S
+Helper Sleeves S
+Helper Skirt S
+Helper Socks S
+
+|| 507
+Healer Glasses S
+Healer Vest S
+Healer Sleeves S
+Healer Frills S
+Healer Socks S
+
+|| 508
+Helper Hood U
+Helper Suit U
+Helper Sleeves U
+Helper Skirt U
+Helper Socks U
+
+|| 509
+Healer Beret U
+Healer Vest U
+Healer Sleeves U
+Healer Frills U
+Healer Socks U
+
+|| 510
+Guild Bard Lobos S
+Guild Bard Bolero S
+Guild Bard Braces S
+Guild Bard Coil S
+Guild Bard Boots S
+
+|| 511
+Guild Bard Hat S
+Guild Bard Vest S
+Guild Bard Sleeves S
+Guild Bard Coat S
+Guild Bard Gaiters S
+
+|| 512
+Chakra Earring
+Chakra Necklace
+Chakra Bracelet
+Chakra Waistlet
+Chakra Anklet
+
+|| 513
+Dummy Helm 513
+Dummy Mail 513
+Dummy Armguards 513
+Dummy Belt 513
+Dummy Leggings 513
+
+|| 514
+Dummy Helm 514
+Dummy Mail 514
+Dummy Armguards 514
+Dummy Belt 514
+Dummy Leggings 514
+
+|| 515
+Dianthus Wealcap
+Dianthus Wealgown
+Dianthus Wealsleeves
+Dianthus Wealskirt
+Dianthus Wealpants
+
+|| 516
+Campanile Wealcap
+Campanile Wealgown
+Campanile Wealsleeves
+Campanile Wealskirt
+Campanile Wealpants
+
+|| 517
+Ace Headgear
+Ace Mail
+Ace Vambraces
+Ace Faulds
+Ace Greaves
+
+|| 518
+Ace Mask
+Ace Vest
+Ace Guards
+Ace Coat
+Ace Leggings
+
+|| 519
+Sororal Headgear
+Sororal Mail
+Sororal Vambraces
+Sororal Faulds
+Sororal Greaves
+
+|| 520
+Sororal Mask
+Sororal Vest
+Sororal Guards
+Sororal Coat
+Sororal Leggings
+
+|| 521
+Hawkhat
+Hawksuit
+Hawkbraces
+Hawkcoil
+Hawkboots
+
+|| 522
+Hawkcap
+Hawkjacket
+Hawkguards
+Hawkcoat
+Hawkfeet
+
+|| 523
+Gourmew Toque S
+Gourmew Suit S
+Gourmew Gloves S
+Gourmew Sarong S
+Gourmew Boots S
+
+|| 524
+Gourmew Cap S
+Gourmew Vest S
+Gourmew Mitts S
+Gourmew Apron S
+Gourmew Paws S
+
+|| 525
+Felyne Hairband
+(None)
+(None)
+(None)
+(None)
+
+|| 526
+Scholarly Hood S
+Scholarly Suit S
+Scholarly Grips S
+Scholarly Sash S
+Scholarly Boots S
+
+|| 527
+Scholarly Cap S
+Scholarly Vest S
+Scholarly Cuffs S
+Scholarly Coat S
+Scholarly Tights S
+
+|| 528
+Ranger's Headgear
+Ranger's Girdle
+Ranger's Gauntlets
+Ranger's Sash
+Ranger's Espadrilles
+
+|| 529
+Archer's Turban
+Archer's Girdle
+Archer's Gauntlets
+Archer's Belt
+Archer's Espadrilles
+
+|| 530
+Shinobi Heaven Mask
+Shinobi Heaven Suit
+Shinobi Heaven Kote
+Shinobi Heaven Belt
+Shinobi Heaven Boots
+
+|| 531
+Shinobi Land Mask
+Shinobi Land Suit
+Shinobi Land Kote
+Shinobi Land Belt
+Shinobi Land Boots
+
+|| 532
+Shinobi Sky Mask
+Shinobi Sky Suit
+Shinobi Sky Kote
+Shinobi Sky Belt
+Shinobi Sky Boots
+
+|| 533
+Shinobi Sea Mask
+Shinobi Sea Suit
+Shinobi Sea Kote
+Shinobi Sea Belt
+Shinobi Sea Boots
+
+|| 534
+Ancient Helm
+Ancient Mail
+Ancient Arms
+Ancient Coil
+Ancient Boots
+
+|| 535
+Ancient Cap
+Ancient Vest
+Ancient Guards
+Ancient Coat
+Ancient Feet
+
+|| 536
+Master's Earcuff
+Master's Mail
+Master's Gauntlets
+Master's Faulds
+Master's Greaves
+
+|| 537
+Master's Earrings
+Master's Vest
+Master's Guards
+Master's Coat
+Master's Leggings
+
+|| 538
+Black Head S
+Black Hide S
+Black Claw S
+Black Spine S
+Black Feet S
+
+|| 539
+Black Face S
+Black Skin S
+Black Fist S
+Black Scale S
+Black Legs S
+
+|| 540
+Toka Kabuto
+Toka Doate
+Toka Kote
+Toka Koshiate
+Toka Gusoku
+
+|| 541
+Mitsuaoi Kabuto
+Mitsuaoi Doate
+Mitsuaoi Kote
+Mitsuaoi Koshiate
+Mitsuaoi Gusoku
+
+|| 542
+EX Rathian Helm S
+EX Rathian Mail S
+EX Rathian Braces S
+EX Rathian Faulds S
+EX Rathian Greaves S
+
+|| 543
+EX Rathian Cap S
+EX Rathian Vest S
+EX Rathian Guards S
+EX Rathian Coat S
+EX Rathian Leggings S
+
+|| 544
+EX Rathalos Helm S
+EX Rathalos Mail S
+EX Rathalos Braces S
+EX Rathalos Faulds S
+EX Rathalos Greaves S
+
+|| 545
+EX Rathalos Cap S
+EX Rathalos Vest S
+EX Rathalos Guards S
+EX Rathalos Coat S
+EX Rathalos Leggings S
+
+|| 546
+EX Tigrex Helm S
+EX Tigrex Mail S
+EX Tigrex Braces S
+EX Tigrex Coil S
+EX Tigrex Greaves S
+
+|| 547
+EX Tigrex Cap S
+EX Tigrex Vest S
+EX Tigrex Guards S
+EX Tigrex Coat S
+EX Tigrex Leggings S
+
+|| 548
+Arc Helm S
+Arc Mail S
+Arc Vambraces S
+Arc Faulds S
+Arc Greaves S
+
+|| 549
+Storge Helm S
+Storge Mail S
+Storge Braces S
+Storge Faulds S
+Storge Greaves S
+
+|| 550
+Arc Cap S
+Arc Vest S
+Arc Guards S
+Arc Coat S
+Arc Leggings S
+
+|| 551
+Storge Cap S
+Storge Vest S
+Storge Guards S
+Storge Coat S
+Storge Leggings S
+
+|| 552
+EX Arc Helm
+EX Arc Mail
+EX Arc Vambraces
+EX Arc Faulds
+EX Arc Greaves
+
+|| 553
+EX Storge Helm
+EX Storge Mail
+EX Storge Vambraces
+EX Storge Faulds
+EX Storge Greaves
+
+|| 554
+EX Arc Cap
+EX Arc Vest
+EX Arc Guards
+EX Arc Coat
+EX Arc Leggings
+
+|| 555
+EX Storge Cap
+EX Storge Vest
+EX Storge Guards
+EX Storge Coat
+EX Storge Leggings
+
+|| 556
+Arc Helm R
+Arc Mail R
+Arc Braces R
+Arc Faulds R
+Arc Greaves R
+
+|| 557
+Storge Helm R
+Storge Mail R
+Storge Braces R
+Storge Faulds R
+Storge Greaves R
+
+|| 558
+Arc Cap R
+Arc Vest R
+Arc Guards R
+Arc Coat R
+Arc Leggings R
+
+|| 559
+Storge Cap R
+Storge Vest R
+Storge Guards R
+Storge Coat R
+Storge Leggings R
+
+|| 560
+Kushala Glare S
+Kushala Cista S
+Kushala Grip S
+Kushala Cocoon S
+Kushala Crus S
+
+|| 561
+Kushala Snarl S
+Kushala Vise S
+Kushala Embrace S
+Kushala Wind Wrap S
+Kushala Shank S
+
+|| 562
+EX Kushala Glare
+EX Kushala Cista
+EX Kushala Grip
+EX Kushala Cocoon
+EX Kushala Crus
+
+|| 563
+EX Kushala Snarl
+EX Kushala Vise
+EX Kushala Embrace
+EX Kushala Wind Wrap
+EX Kushala Shank
+
+|| 564
+Kushala Glare R
+Kushala Cista R
+Kushala Grip R
+Kushala Cocoon R
+Kushala Crus R
+
+|| 565
+Kushala Snarl R
+Kushala Vise R
+Kushala Embrace R
+Kushala Wind Wrap R
+Kushala Shank R
+
+|| 566
+Mizuha Cap S
+Mizuha Guards S
+Mizuha Sleeves S
+Mizuha Sash S
+Mizuha Gaiters S
+
+|| 567
+Cham Hat S
+Cham Camise S
+Cham Sleeves S
+Cham Coat S
+Cham Trousers S
+
+|| 568
+EX Mizuha Cap
+EX Mizuha Guards
+EX Mizuha Sleeves
+EX Mizuha Sash
+EX Mizuha Gaiters
+
+|| 569
+EX Cham Hat
+EX Cham Camise
+EX Cham Sleeves
+EX Cham Coat
+EX Cham Trousers
+
+|| 570
+Kaiser Crown S
+Kaiser Mail S
+Kaiser Vambraces S
+Kaiser Tassets S
+Kaiser Greaves S
+
+|| 571
+Kaiser Mask S
+Kaiser Vest S
+Kaiser Guards S
+Kaiser Coat S
+Kaiser Leggings S
+
+|| 572
+EX Kaiser Crown
+EX Kaiser Mail
+EX Kaiser Vambraces
+EX Kaiser Tassets
+EX Kaiser Greaves
+
+|| 573
+EX Kaiser Mask
+EX Kaiser Vest
+EX Kaiser Guards
+EX Kaiser Coat
+EX Kaiser Leggings
+
+|| 574
+Silver Solhelm
+Silver Solmail
+Silver Solbraces
+Silver Solcoil
+Silver Solgreaves
+
+|| 575
+Silver Solcap
+Silver Solvest
+Silver Solguards
+Silver Solcoat
+Silver Solleggings
+
+|| 576
+EX Silver Solhelm
+EX Silver Solmail
+EX Silver Solbraces
+EX Silver Solcoil
+EX Silver Solgreaves
+
+|| 577
+EX Silver Solcap
+EX Silver Solvest
+EX Silver Solguards
+EX Silver Solcoat
+EX Silver Solleggings
+
+|| 578
+Silver Solhelm R
+Silver Solmail R
+Silver Solbraces R
+Silver Solcoil R
+Silver Solgreaves R
+
+|| 579
+Silver Solcap R
+Silver Solvest R
+Silver Solguards R
+Silver Solcoat R
+Silver Solleggings R
+
+|| 580
+Golden Lunehelm
+Golden Lunemail
+Golden Lunebraces
+Golden Lunecoil
+Golden Lunegreaves
+
+|| 581
+Golden Lunecap
+Golden Lunevest
+Golden Luneguards
+Golden Lunecoat
+Golden Luneleggings
+
+|| 582
+EX Golden Lunehelm
+EX Golden Lunemail
+EX Golden Lunebraces
+EX Golden Lunecoil
+EX Golden Lunegreaves
+
+|| 583
+EX Golden Lunecap
+EX Golden Lunevest
+EX Golden Luneguards
+EX Golden Lunecoat
+EX Golden Luneleggings
+
+|| 584
+Divine Ire Headdress
+Divine Ire Haori
+Divine Ire Kote
+Divine Ire Obi
+Divine Ire Hakama
+
+|| 585
+Crusher Mask
+Crusher Garb
+Crusher Braces
+Crusher Belt
+Mind Crusher Tabi
+
+|| 586
+Esurient Helm
+Esurient Mail
+Esurient Vambraces
+Esurient Faulds
+Esurient Greaves
+
+|| 587
+Esurient Cap
+Esurient Vest
+Esurient Guards
+Esurient Coat
+Esurient Leggings
+
+|| 588
+Esurient Helm R
+Esurient Mail R
+Esurient Braces R
+Esurient Faulds R
+Esurient Greaves R
+
+|| 589
+Esurient Cap R
+Esurient Vest R
+Esurient Guards R
+Esurient Coat R
+Esurient Leggings R
+
+|| 590
+Akantor Mask
+Akantor Aegis
+Akantor Claws
+Akantor Cincture
+Akantor Hessian
+
+|| 591
+Akantor Fangs
+Akantor Plate
+Akantor Gauntlets
+Akantor Sash
+Akantor Boots
+
+|| 592
+Akantor Mask R
+Akantor Aegis R
+Akantor Claws R
+Akantor Cincture R
+Akantor Hessian R
+
+|| 593
+Akantor Fangs R
+Akantor Plate R
+Akantor Gauntlets R
+Akantor Sash R
+Akantor Boots R
+
+|| 594
+Ukanlos Mask
+Ukanlos Aegis
+Ukanlos Claws
+Ukanlos Cincture
+Ukanlos Hessian
+
+|| 595
+Ukanlos Fangs
+Ukanlos Plate
+Ukanlos Gauntlets
+Ukanlos Sash
+Ukanlos Boots
+
+|| 596
+Tempest Crown
+Tempest Robe
+Tempest Sleeves
+Tempest Obi
+Tempest Hakama
+
+|| 597
+Welkin Crown
+Welkin Robe
+Welkin Sleeves
+Welkin Obi
+Welkin Hakama
+
+|| 598
+Tempest Crown R
+Tempest Robe R
+Tempest Sleeves R
+Tempest Obi R
+Tempest Hakama R
+
+|| 599
+Welkin Crown R
+Welkin Robe R
+Welkin Sleeves R
+Welkin Obi R
+Welkin Hakama R
+
+|| 600
+Skeletal Skull R
+Skeletal Sternum R
+Skeletal Humerus R
+Skeletal Hipbone R
+Skeletal Femur R
+
+|| 601
+Decayed Skull R
+Decayed Sternum R
+Decayed Humerus R
+Decayed Hipbone R
+Decayed Femur R
+
+|| 602
+Astral Helm
+Astral Suit
+Astral Vambraces
+Astral Coil
+Astral Boots
+
+|| 603
+Astral Mask
+Astral Vest
+Astral Guards
+Astral Coat
+Astral Feet
+
+|| 604
+Escadora Wisdom
+Escadora Soul
+Escadora Armguards
+Escadora Might
+Escadora Sheath
+
+|| 605
+Escadora Sagesse
+Escadora Seele
+Escadora Arma
+Escadora Force
+Escadora Scala
+
+|| 606
+Escadora Wisdom R
+Escadora Soul R
+Escadora Armguards R
+Escadora Might R
+Escadora Sheath R
+
+|| 607
+Escadora Sagesse R
+Escadora Seele R
+Escadora Arma R
+Escadora Force R
+Escadora Scala R
+
+|| 608
+(None)
+(None)
+Caravaneer's Armlets
+(None)
+(None)
+
+|| 609
+Dragonlord's Gaze
+(None)
+(None)
+(None)
+(None)
+
+|| 610
+Takami Feather
+(None)
+(None)
+(None)
+(None)
+
+|| 611
+Hayabusa Feather
+(None)
+(None)
+(None)
+(None)
+
+|| 612
+Kakuju Feather
+(None)
+(None)
+(None)
+(None)
+
+|| 613
+Sword Saint Earring
+(None)
+(None)
+(None)
+(None)
+
+|| 614
+Barrage Earring
+(None)
+(None)
+(None)
+(None)
+
+|| 615
+Strange Helm
+Strange Mail
+Strange Vambraces
+Strange Faulds
+Strange Greaves
+
+|| 616
+Strange Cap
+Strange Vest
+Strange Guards
+Strange Coat
+Strange Leggings
+
+|| 617
+Redhelm Helm
+Redhelm Mail
+Redhelm Vambraces
+Redhelm Faulds
+Redhelm Greaves
+
+|| 618
+Redhelm Cap
+Redhelm Vest
+Redhelm Guards
+Redhelm Coat
+Redhelm Leggings
+
+|| 619
+Snowbaron Helm
+Snowbaron Mail
+Snowbaron Vambraces
+Snowbaron Faulds
+Snowbaron Greaves
+
+|| 620
+Snowbaron Cap
+Snowbaron Vest
+Snowbaron Guards
+Snowbaron Coat
+Snowbaron Leggings
+
+|| 621
+Stonefist Helm
+Stonefist Mail
+Stonefist Vambraces
+Stonefist Faulds
+Stonefist Greaves
+
+|| 622
+Stonefist Cap
+Stonefist Vest
+Stonefist Guards
+Stonefist Coat
+Stonefist Leggings
+
+|| 623
+Dreadqueen Helm
+Dreadqueen Mail
+Dreadqueen Braces
+Dreadqueen Faulds
+Dreadqueen Greaves
+
+|| 624
+Dreadqueen Cap
+Dreadqueen Vest
+Dreadqueen Guards
+Dreadqueen Coat
+Dreadqueen Leggings
+
+|| 625
+Drilltusk Helm
+Drilltusk Mail
+Drilltusk Braces
+Drilltusk Faulds
+Drilltusk Greaves
+
+|| 626
+Drilltusk Cap
+Drilltusk Vest
+Drilltusk Guards
+Drilltusk Coat
+Drilltusk Leggings
+
+|| 627
+Silverwind Helm
+Silverwind Mail
+Silverwind Braces
+Silverwind Faulds
+Silverwind Greaves
+
+|| 628
+Silverwind Cap
+Silverwind Vest
+Silverwind Guards
+Silverwind Coat
+Silverwind Leggings
+
+|| 629
+Crystalbeard Helm
+Crystalbeard Mail
+Crystalbeard Braces
+Crystalbeard Faulds
+Crystalbeard Greaves
+
+|| 630
+Crystalbeard Cap
+Crystalbeard Vest
+Crystalbeard Guards
+Crystalbeard Coat
+Crystalbeard Leggings
+
+|| 631
+Deadeye Helm
+Deadeye Mail
+Deadeye Vambraces
+Deadeye Faulds
+Deadeye Greaves
+
+|| 632
+Deadeye Cap
+Deadeye Vest
+Deadeye Guards
+Deadeye Coat
+Deadeye Leggings
+
+|| 633
+Dreadking Helm
+Dreadking Mail
+Dreadking Braces
+Dreadking Faulds
+Dreadking Greaves
+
+|| 634
+Dreadking Cap
+Dreadking Vest
+Dreadking Guards
+Dreadking Coat
+Dreadking Leggings
+
+|| 635
+Thunderlord Helm
+Thunderlord Mail
+Thunderlord Braces
+Thunderlord Faulds
+Thunderlord Greaves
+
+|| 636
+Thunderlord Cap
+Thunderlord Vest
+Thunderlord Guards
+Thunderlord Coat
+Thunderlord Leggings
+
+|| 637
+Grimclaw Helm
+Grimclaw Mail
+Grimclaw Braces
+Grimclaw Faulds
+Grimclaw Greaves
+
+|| 638
+Grimclaw Cap
+Grimclaw Vest
+Grimclaw Guards
+Grimclaw Coat
+Grimclaw Leggings
+
+|| 639
+Hellblade Helm
+Hellblade Mail
+Hellblade Braces
+Hellblade Faulds
+Hellblade Greaves
+
+|| 640
+Hellblade Cap
+Hellblade Vest
+Hellblade Guards
+Hellblade Coat
+Hellblade Leggings
+
+|| 641
+Shadow Shades
+(None)
+(None)
+(None)
+(None)
+
+|| 642
+(None)
+(None)
+(None)
+(None)
+Black Leather Chaps
+
+|| 643
+(None)
+(None)
+(None)
+(None)
+Black Leather Pants
+
+|| 644
+Ushio's Cut
+(None)
+(None)
+(None)
+(None)
+
+|| 645
+Ushio's Hair
+(None)
+(None)
+(None)
+(None)
+
+|| 646
+(None)
+X Gammoth Jacket
+(None)
+(None)
+(None)
+
+|| 647
+(None)
+X Gammoth Jersey
+(None)
+(None)
+(None)
+
+|| 648
+(None)
+X Mizutsune Jacket
+(None)
+(None)
+(None)
+
+|| 649
+(None)
+X Mizutsune Jersey
+(None)
+(None)
+(None)
+
+|| 650
+(None)
+X Dino Jacket
+(None)
+(None)
+(None)
+
+|| 651
+(None)
+X Dino Jersey
+(None)
+(None)
+(None)
+
+|| 652
+(None)
+X Astalos Jacket
+(None)
+(None)
+(None)
+
+|| 653
+(None)
+X Astalos Jersey
+(None)
+(None)
+(None)
+
+|| 654
+(None)
+Booyah Jacket
+(None)
+Booyah Belt
+Booyah Jeans
+
+|| 655
+(None)
+Booyah Bomber
+(None)
+Booyah Buckle
+Booyah Denim
+
+|| 656
+(None)
+Biker Jacket
+(None)
+(None)
+(None)
+
+|| 657
+(None)
+Biker Leather
+(None)
+(None)
+(None)
+
+|| 658
+Bristling Mane
+Ultimate Garb
+(None)
+(None)
+Ultimate Pleats
+
+|| 659
+Terrifying Mane
+Ultimate Attire
+(None)
+(None)
+Ultimate Walkers
+
+|| 660
+Champion's Hair
+Champion's Body
+Champion's Wraps
+Champion's Belt
+Champion's Shorts
+
+|| 661
+Strongman's Hair
+Strongman's Body
+Strongman's Wraps
+Strongman's Belt
+Strongman's Shorts
+
+|| 662
+Zodias Helm
+Zodias Mail
+Zodias Vambraces
+Zodias Coil
+Zodias Greaves
+
+|| 663
+Zodias Cap
+Zodias Vest
+Zodias Guards
+Zodias Coat
+Zodias Leggings
+
+|| 664
+Pirate Hat J
+Pirate Suit J
+Pirate Gloves J
+Pirate Coil J
+Pirate Boots J
+
+|| 665
+Pirate Roger J
+Pirate Jacket J
+Pirate Cuffs J
+Pirate Skirt J
+Pirate Pants J
+
+|| 666
+Buccaneer Hat J
+Buccaneer Suit J
+Buccaneer Gloves J
+Buccaneer Coil J
+Buccaneer Boots J
+
+|| 667
+Buccaneer Roger J
+Buccaneer Jacket J
+Buccaneer Cuffs J
+Buccaneer Skirt J
+Buccaneer Pants J
+
+|| 668
+Dynaqlo Beanie
+Dynaqlo Coat
+Dynaqlo Glovelettes
+Dynaqlo Belt
+Dynaqlo Cargo Pants
+
+|| 669
+Dynaqlo Headphones
+Dynaqlo Jacket
+Dynaqlo Gloves
+Dynaqlo Pouch
+Dynaqlo Combats
+
+|| 670
+Promising Helm
+Promising Plate
+Promising Braces
+Promising Girdle
+Promising Sabatons
+
+|| 671
+Halcyon Helm
+Halcyon Plate
+Halcyon Braces
+Halcyon Girdle
+Halcyon Sabatons
+
+|| 672
+Blue Star Lobos
+Blue Star Suit
+Blue Star Braces
+Blue Star Coil
+Blue Star Boots
+
+|| 673
+Blue Star Hat
+Blue Star Jacket
+Blue Star Sleeves
+Blue Star Coat
+Blue Star Footwear
+
+|| 674
+Star Rook Helm
+Star Rook Mail
+Star Rook Vambraces
+Star Rook Coil
+Star Rook Greaves
+
+|| 675
+Star Rook Cap
+Star Rook Vest
+Star Rook Guards
+Star Rook Coat
+Star Rook Leggings
+
+|| 676
+Star Knight Helm
+Star Knight Mail
+Star Knight Vambraces
+Star Knight Coil
+Star Knight Greaves
+
+|| 677
+Star Knight Cap
+Star Knight Vest
+Star Knight Guards
+Star Knight Coat
+Star Knight Leggings
+
+|| 678
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+
+|| 679
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+
+|| 680
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+
+|| 681
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+
+|| 682
+Hero's Hat
+Hero's Clothes
+Hero's Braces
+Hero's Belt
+Hero's Boots
+
+|| 683
+Hero's Cap
+Hero's Tunic
+Hero's Gloves
+Hero's Band
+Hero's Leggings
+
+|| 684
+Varia Suit Visor
+Varia Suit Armor
+Varia Suit Guards
+(None)
+Varia Suit Leg Guards
+
+|| 685
+Varia Suit Scope
+Varia Suit Barrier
+Varia Suit Shield
+(None)
+Varia Suit Legs
+
+|| 686
+Zero Suit Ponytail
+Zero Suit Body
+Zero Suit Gloves
+(None)
+Zero Suit Boots
+
+|| 687
+Zero Suit Hairpiece
+Zero Suit Wear
+Zero Suit Hands
+(None)
+Zero Suit Tights
+
+|| 688
+Helm of Rage
+Mail of Rage
+Braces of Rage
+(None)
+Greaves of Rage
+
+|| 689
+Cap of Rage
+Vest of Rage
+Guards of Rage
+(None)
+Leggings of Rage
+
+|| 690
+Helm of Anat
+Mail of Anat
+Braces of Anat
+(None)
+Greaves of Anat
+
+|| 691
+Cap of Anat
+Vest of Anat
+Guards of Anat
+(None)
+Leggings of Anat
+
+|| 692
+(None)
+Rider Jacket
+(None)
+(None)
+(None)
+
+|| 693
+(None)
+Rider Leather
+(None)
+(None)
+(None)
+
+|| 694
+Mosgharl Vizor
+Mosgharl Ribplate
+Mosgharl Creeper
+Mosgharl Folia
+Mosgharl Roots
+
+|| 695
+Mosgharl Brim
+Mosgharl Ribguard
+Mosgharl Tendril
+Mosgharl Fronds
+Mosgharl Radicles
+
+|| 696
+Gammoth Helm
+Gammoth Mail
+Gammoth Braces
+Gammoth Faulds
+Gammoth Greaves
+
+|| 697
+Gammoth Cap
+Gammoth Vest
+Gammoth Guards
+Gammoth Coat
+Gammoth Leggings
+
+|| 698
+Gourmew Toque
+Gourmew Suit
+Gourmew Gloves
+Gourmew Sarong
+Gourmew Boots
+
+|| 699
+Gourmew Cap
+Gourmew Vest
+Gourmew Mitts
+Gourmew Apron
+Gourmew Paws
+
+|| 700
+Leather Cap S
+Leather Vest S
+Leather Guards S
+Leather Coat S
+Leather Leggings S
+
+|| 701
+Chainmail Cap S
+Chainmail Vest S
+Chainmail Guards S
+Chainmail Coat S
+Chainmail Leggings S
+
+|| 702
+Mosgharl Vizor S
+Mosgharl Ribplate S
+Mosgharl Creeper S
+Mosgharl Folia S
+Mosgharl Roots S
+
+|| 703
+Mosgharl Brim S
+Mosgharl Ribguard S
+Mosgharl Tendril S
+Mosgharl Fronds S
+Mosgharl Radicles S
+
+|| 704
+Gammoth Helm S
+Gammoth Mail S
+Gammoth Braces S
+Gammoth Faulds S
+Gammoth Greaves S
+
+|| 705
+Gammoth Cap S
+Gammoth Vest S
+Gammoth Guards S
+Gammoth Coat S
+Gammoth Leggings S
+
+|| 706
+Blue Guild Tricorne
+Blue Guild Suit
+Blue Guild Gloves
+Blue Guild Coil
+Blue Guild Boots
+
+|| 707
+Blue Guild Piercing
+Blue Guild Vest
+Blue Guild Sleeves
+Blue Guild Coat
+Blue Guild Tights
+
+|| 708
+Red Guild Tricorne
+Red Guild Suit
+Red Guild Gloves
+Red Guild Coil
+Red Guild Boots
+
+|| 709
+Red Guild Piercing
+Red Guild Vest
+Red Guild Sleeves
+Red Guild Coat
+Red Guild Tights
+
+|| 710
+Gourmew Toque S
+Gourmew Suit S
+Gourmew Gloves S
+Gourmew Sarong S
+Gourmew Boots S
+
+|| 711
+Gourmew Cap S
+Gourmew Vest S
+Gourmew Mitts S
+Gourmew Apron S
+Gourmew Paws S
+
+|| 712
+Promising Archhelm
+Promising Archplate
+Promising Archbraces
+Promising Archgirdle
+Promising Archpleats
+
+|| 713
+Halcyon Archhelm
+Halcyon Archplate
+Halcyon Archbraces
+Halcyon Archgirdle
+Halcyon Archpleats
+
+|| 714
+Lucid Crown
+Lucid Robe
+Lucid Gauntlets
+Lucid Tassets
+Lucid Pleats
+
+|| 715
+Dreamy Crown
+Dreamy Robe
+Dreamy Gauntlets
+Dreamy Tassets
+Dreamy Pleats
+
+|| 716
+Lucid Miter
+Lucid Archrobe
+Lucid Archbraces
+Lucid Archgirdle
+Lucid Archpleats
+
+|| 717
+Dreamy Miter
+Dreamy Archrobe
+Dreamy Archbraces
+Dreamy Archgirdle
+Dreamy Archpleats
+
+|| 718
+Hiryu Sky Mask
+Hiryu Sky Suit
+Hiryu Sky Kote
+Hiryu Sky Belt
+Hiryu Sky Boots
+
+|| 719
+Hiryu Land Mask
+Hiryu Land Suit
+Hiryu Land Kote
+Hiryu Land Belt
+Hiryu Land Boots
+
+|| 720
+Lodestar Band
+Lodestar Suit
+Lodestar Armguards
+Lodestar Belt
+Lodestar Boots
+
+|| 721
+Lodestar Hoop
+Lodestar Vest
+Lodestar Cuffs
+Lodestar Cloak
+Lodestar Greaves
+
+|| 722
+Varia Suit Visor
+Varia Suit Armor
+Varia Suit Guards
+(None)
+Varia Suit Leg Guards
+
+|| 723
+Varia Suit Scope
+Varia Suit Barrier
+Varia Suit Shield
+(None)
+Varia Suit Legs
+
+|| 724
+Zero Suit Wig
+Zero Suit Body
+Zero Suit Gloves
+(None)
+Zero Suit Boots
+
+|| 725
+Zero Suit Toupee
+Zero Suit Wear
+Zero Suit Hands
+(None)
+Zero Suit Tights

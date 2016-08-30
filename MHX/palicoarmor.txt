@@ -1,0 +1,1155 @@
+|| 1
+F Acorn Helm
+F Acorn Mail
+
+|| 2
+F Bherna Hood
+F Bherna Mail
+
+|| 3
+F Alloy Helm
+F Alloy Mail
+
+|| 4
+F Bone Helm
+F Bone Mail
+
+|| 5
+F Jaggi Helm
+F Jaggi Mail
+
+|| 6
+F Hunting Helm
+F Hunting Mail
+
+|| 7
+F Mafumofu Hood
+F Mafumofu Vest
+
+|| 8
+F Yukumo Kasa
+F Yukumo Dogi
+
+|| 9
+F Alta Hat
+F Alta Shirt
+
+|| 10
+F Rheno Helm
+F Rheno Mail
+
+|| 11
+F Bnaha Cap
+F Bnaha Suit
+
+|| 12
+F Maccao Helm
+F Maccao Mail
+
+|| 13
+F Velociprey Helm
+F Velociprey Mail
+
+|| 14
+F Bulldrome Mask
+F Bulldrome Vest
+
+|| 15
+F Arzuros Helm
+F Arzuros Mail
+
+|| 16
+F Genprey Helm
+F Genprey Mail
+
+|| 17
+F Cephalos Hat
+F Cephalos Dress
+
+|| 18
+F Stone Head
+F Stone Body
+
+|| 19
+F Venombee Cap
+F Venombee Wings
+
+|| 20
+F Gourmet Toque
+F Gourmet Suit
+
+|| 21
+F Moofy Head
+F Moofy Suit
+
+|| 22
+F Aptonoth Mask
+F Aptonoth Suit
+
+|| 23
+F Popo Head
+F Popo Wear
+
+|| 24
+F Gargwa Mask
+F Gargwa Vest
+
+|| 25
+F Ioprey Helm
+F Ioprey Mail
+
+|| 26
+F Lagombi Helm
+F Lagombi Mail
+
+|| 27
+F Kut-Ku Mask
+F Kut-Ku Wear
+
+|| 28
+F Gypceros Crest
+F Gypceros Cloth
+
+|| 29
+F Cabra Horn
+F Cabra Wrap
+
+|| 30
+F Daimyo Mask
+F Daimyo Suit
+
+|| 31
+F Ludroth Helm
+F Ludroth Mail
+
+|| 32
+F Khezu Cap
+F Khezu Apron
+
+|| 33
+F Nibel Helm
+F Nibel Mail
+
+|| 34
+F Scholarly Cap
+F Scholarly Suit
+
+|| 35
+F Derring Galea
+F Derring Lorica
+
+|| 36
+F Edel Pigtails
+F Edel Frills
+
+|| 37
+F Kittendant Hood
+F Kittendant Suit
+
+|| 38
+F Mosgharl Hat
+F Mosgharl Mail
+
+|| 39
+F Larinoth Mask
+F Larinoth Suit
+
+|| 40
+F Death Stench Hood
+F Death Stench Coat
+
+|| 41
+F Marauder Helm
+F Marauder Armor
+
+|| 42
+F Volvi Helm
+F Volvi Mail
+
+|| 43
+F Malfestio Mask
+F Malfestio Mail
+
+|| 44
+F Rathian Helm
+F Rathian Mail
+
+|| 45
+F Blango Mask
+F Blango Garb
+
+|| 46
+F Ceanataur Mask
+F Ceanataur Suit
+
+|| 47
+F Naja Turban
+F Naja Sirwal
+
+|| 48
+F Narga Helm
+F Narga Mail
+
+|| 49
+F Maiden Hood
+F Maiden Mail
+
+|| 50
+F Helper Hood
+F Helper Mail
+
+|| 51
+F Pretty Toque
+F Pretty Robe
+
+|| 52
+F Chaos Bulbs
+F Chaos Skirt
+
+|| 53
+F El Dora Helm
+F El Dora Mail
+
+|| 54
+F Artian Core
+F Artian Gear
+
+|| 55
+F Garuga Hood
+F Garuga Robe
+
+|| 56
+F Uragaan Helm
+F Uragaan Mail
+
+|| 57
+F Rathalos Helm
+F Rathalos Mail
+
+|| 58
+F Lagia Tricorne
+F Lagia Mail
+
+|| 59
+F Astalos Mask
+F Astalos Suit
+
+|| 60
+F Gammoth Collar
+F Gammoth Coat
+
+|| 61
+F Mizutsune Kasa
+F Mizutsune Suit
+
+|| 62
+F Guild Headgear
+F Guild Suit
+
+|| 63
+F Glavenus Helm
+F Glavenus Mail
+
+|| 64
+F Zinogre Helm
+F Zinogre Mail
+
+|| 65
+F Gore Horror
+F Gore Ghost
+
+|| 66
+F Seregios Helm
+F Seregios Mail
+
+|| 67
+F Tigrex Helm
+F Tigrex Mail
+
+|| 68
+F Kirin Horn
+F Kirin Vest
+
+|| 69
+F Brachy Headgear
+F Brachy Gloves
+
+|| 70
+F Angel Halo
+F Angel Feathers
+
+|| 71
+F Kushala Glare
+F Kushala Cista
+
+|| 72
+F Genie Helm
+F Genie Carpet
+
+|| 73
+F Kaiser Periwig
+F Kaiser Robe
+
+|| 74
+F Husk Mask
+F Husk Suit
+
+|| 75
+F Acorn Helm S
+F Acorn Mail S
+
+|| 76
+F Bherna Hood S
+F Bherna Mail S
+
+|| 77
+F Hunting Helm S
+F Hunting Mail S
+
+|| 78
+F Mafumofu Hood S
+F Mafumofu Vest S
+
+|| 79
+F Yukumo Kasa S
+F Yukumo Dogi S
+
+|| 80
+F Gourmet Toque S
+F Gourmet Suit S
+
+|| 81
+F Moofy Head S
+F Moofy Suit S
+
+|| 82
+F Aptonoth Mask S
+F Aptonoth Suit S
+
+|| 83
+F Popo Head S
+F Popo Wear S
+
+|| 84
+F Gargwa Mask S
+F Gargwa Vest S
+
+|| 85
+F Larinoth Mask S
+F Larinoth Suit S
+
+|| 86
+F Alloy Helm S
+F Alloy Mail S
+
+|| 87
+F Bone Helm S
+F Bone Mail S
+
+|| 88
+F Alta Hat S
+F Alta Shirt S
+
+|| 89
+F Bnaha Cap S
+F Bnaha Suit S
+
+|| 90
+F Jaggi Helm S
+F Jaggi Mail S
+
+|| 91
+F Rheno Helm S
+F Rheno Mail S
+
+|| 92
+F Slagtoth Hood
+F Slagtoth Cape
+
+|| 93
+F Maccao Helm S
+F Maccao Mail S
+
+|| 94
+F Velociprey Helm S
+F Velociprey Mail S
+
+|| 95
+F Bulldrome Mask S
+F Bulldrome Vest S
+
+|| 96
+F Arzuros Helm S
+F Arzuros Mail S
+
+|| 97
+F Genprey Helm S
+F Genprey Mail S
+
+|| 98
+F Lagombi Helm S
+F Lagombi Mail S
+
+|| 99
+F Cephalos Hat S
+F Cephalos Dress S
+
+|| 100
+F Kut-Ku Mask S
+F Kut-Ku Wear S
+
+|| 101
+F Gypceros Crest S
+F Gypceros Cloth S
+
+|| 102
+F Cabra Horn S
+F Cabra Wrap S
+
+|| 103
+F Daimyo Mask S
+F Daimyo Suit S
+
+|| 104
+F Ludroth Helm S
+F Ludroth Mail S
+
+|| 105
+F Kecha Cap
+F Kecha Coat
+
+|| 106
+F Ladybug Cap
+F Ladybug Wings
+
+|| 107
+F Lecturer's Hood
+F Lecturer's Suit
+
+|| 108
+F Guide's Hood
+F Guide's Suit
+
+|| 109
+F Sailor Hat
+F Sailor Suit
+
+|| 110
+F Stone King Head
+F Stone King Body
+
+|| 111
+F Venombee Cap S
+F Venombee Wings S
+
+|| 112
+F Mosgharl Hat S
+F Mosgharl Mail S
+
+|| 113
+F Marauder Helm S
+F Marauder Armor S
+
+|| 114
+F Ioprey Helm S
+F Ioprey Mail S
+
+|| 115
+F Volvi Helm S
+F Volvi Mail S
+
+|| 116
+F Khezu Catnurse S
+F Khezu Smock S
+
+|| 117
+F Nibel Helm S
+F Nibel Mail S
+
+|| 118
+F Malfestio Mask S
+F Malfestio Mail S
+
+|| 119
+F Rathian Helm S
+F Rathian Mail S
+
+|| 120
+F Blango Mask S
+F Blango Garb S
+
+|| 121
+F Ceanataur Mask S
+F Ceanataur Suit S
+
+|| 122
+F Naja Turban S
+F Naja Sirwal S
+
+|| 123
+F Narga Helm S
+F Narga Mail S
+
+|| 124
+F Garuga Hood S
+F Garuga Robe S
+
+|| 125
+F Uragaan Helm S
+F Uragaan Mail S
+
+|| 126
+F Zamtrios Helmet
+F Zamtrios Suit
+
+|| 127
+F Plesioth Cap
+F Plesioth Suit
+
+|| 128
+F Lava Helm
+F Lava Mail
+
+|| 129
+F Edel Pigtails S
+F Edel Frills S
+
+|| 130
+F Kittendant Hood S
+F Kittendant Suit S
+
+|| 131
+F Acorn Mask
+F Shakalaka Duds
+
+|| 132
+F Pincer Mask
+F Straw Raincoat
+
+|| 133
+F Chaos Bulbs+
+F Chaos Skirt+
+
+|| 134
+F Death Stench Hood S
+F Death Stench Coat S
+
+|| 135
+F El Dora Helm S
+F El Dora Mail S
+
+|| 136
+F Artian Core S
+F Artian Gear S
+
+|| 137
+F Lagia Triad S
+F Lagia Pirate S
+
+|| 138
+F Glavenus Helm S
+F Glavenus Mail S
+
+|| 139
+F Astalos Mask S
+F Astalos Suit S
+
+|| 140
+F Gammoth Collar S
+F Gammoth Coat S
+
+|| 141
+F Mizutsune Kasa S
+F Mizutsune Suit S
+
+|| 142
+F Rathalos Helm S
+F Rathalos Mail S
+
+|| 143
+F Zinogre Helm S
+F Zinogre Mail S
+
+|| 144
+F Gore Horror S
+F Gore Ghost S
+
+|| 145
+F Tigrex Helm S
+F Tigrex Mail S
+
+|| 146
+F Seltas Head
+F Seltas Body
+
+|| 147
+F Agnaktor Helm
+F Agnaktor Mail
+
+|| 148
+F Duram Helm
+F Duram Mail
+
+|| 149
+F Kirin Horn S
+F Kirin Vest S
+
+|| 150
+F Puppeteer Mask
+F Puppeteer Garb
+
+|| 151
+F Vangis Helm
+F Vangis Mail
+
+|| 152
+F Kut-Ku Mask R
+F Kut-Ku Wear R
+
+|| 153
+F Kecha Cap R
+F Kecha Coat R
+
+|| 154
+F Gypceros Crest R
+F Gypceros Cloth R
+
+|| 155
+F Cabra Horn R
+F Cabra Wrap R
+
+|| 156
+F Daimyo Mask R
+F Daimyo Suit R
+
+|| 157
+F Ludroth Helm R
+F Ludroth Mail R
+
+|| 158
+F Malfestio Mask R
+F Malfestio Mail R
+
+|| 159
+F Zamtrios Helmet R
+F Zamtrios Suit R
+
+|| 160
+F Khezu Cap R
+F Khezu Suit R
+
+|| 161
+F Rathian Helm R
+F Rathian Mail R
+
+|| 162
+F Nibel Helm R
+F Nibel Mail R
+
+|| 163
+F Plesioth Cap R
+F Plesioth Suit R
+
+|| 164
+F Blango Mask R
+F Blango Garb R
+
+|| 165
+F Scholarly Cap S
+F Scholarly Suit S
+
+|| 166
+F Maiden Hood S
+F Maiden Mail S
+
+|| 167
+F Helper Hood S
+F Helper Mail S
+
+|| 168
+F Beautiful Toque
+F Beautiful Robe
+
+|| 169
+F Ultimate Mask
+(None)
+
+|| 170
+F Guild Headgear S
+F Guild Suit S
+
+|| 171
+F Soul Hairpiece
+F Arcadia Robe
+
+|| 172
+F Transpurrter Kasa
+F Transpurrter Cape
+
+|| 173
+F Dirty Locks
+F Dirty Hakama
+
+|| 174
+F D'Artanyan's Hat
+F D'Artanyan's Cape
+
+|| 175
+F Master's Helm
+F Master's Mail
+
+|| 176
+F Derring Galea S
+F Derring Lorica S
+
+|| 177
+F Seregios Helm S
+F Seregios Mail S
+
+|| 178
+F Brachy Noggin S
+F Brachy Fist S
+
+|| 179
+F Angel Aura S
+F Angel Down S
+
+|| 180
+F Husk Mask S
+F Husk Suit S
+
+|| 181
+F Nakarkos Mask
+F Nakarkos Suit
+
+|| 182
+F Lava Helm R
+F Lava Mail R
+
+|| 183
+F Ceanataur Mask R
+F Ceanataur Suit R
+
+|| 184
+F Narga Helm R
+F Narga Mail R
+
+|| 185
+F Naja Turban R
+F Naja Sirwal R
+
+|| 186
+F Garuga Hood R
+F Garuga Robe R
+
+|| 187
+F Uragaan Helm R
+F Uragaan Mail R
+
+|| 188
+F Seltas Head R
+F Seltas Body R
+
+|| 189
+F Rathalos Helm R
+F Rathalos Mail R
+
+|| 190
+F Lagia Triad R
+F Lagia Pirate R
+
+|| 191
+F Zinogre Helm R
+F Zinogre Mail R
+
+|| 192
+(None)
+F Felcote's Coat
+
+|| 193
+F Kushala Glower S
+F Kushala Cormi S
+
+|| 194
+F Genie Helm S
+F Genie Carpet S
+
+|| 195
+F Kaiser Crown
+F Kaiser Panoply
+
+|| 196
+F Akantor Visage
+F Akantor Facade
+
+|| 197
+F Ukanlos Visage
+F Ukanlos Facade
+
+|| 198
+F Majestic Crown
+F Majestic Robe
+
+|| 199
+F Escador Wisdom
+F Escador Soul
+
+|| 200
+F Mizutsune Kasa R
+F Mizutsune Suit R
+
+|| 201
+F Astalos Mask R
+F Astalos Suit R
+
+|| 202
+F Gammoth Collar R
+F Gammoth Coat R
+
+|| 203
+F Glavenus Helm R
+F Glavenus Mail R
+
+|| 204
+F Agnaktor Helm R
+F Agnaktor Mail R
+
+|| 205
+F Gore Horror R
+F Gore Ghost R
+
+|| 206
+F Seregios Helm R
+F Seregios Mail R
+
+|| 207
+F Duram Helm R
+F Duram Mail R
+
+|| 208
+F Tigrex Helm R
+F Tigrex Mail R
+
+|| 209
+F Brachy Head R
+F Brachy Gloves R
+
+|| 210
+F Puppeteer Mask R
+F Puppeteer Garb R
+
+|| 211
+F Vangis Helm R
+F Vangis Mail R
+
+|| 212
+F Strange Helm
+F Strange Mail
+
+|| 213
+F Strange Helm S
+F Strange Mail S
+
+|| 214
+F Redhelm Helm
+F Redhelm Mail
+
+|| 215
+F Redhelm Helm S
+F Redhelm Mail S
+
+|| 216
+F Snowbaron Helm
+F Snowbaron Mail
+
+|| 217
+F Snowbaron Helm S
+F Snowbaron Mail S
+
+|| 218
+F Stonefist Mask
+F Stonefist Suit
+
+|| 219
+F Stonefist Mask S
+F Stonefist Suit S
+
+|| 220
+F Dreadqueen Helm
+F Dreadqueen Mail
+
+|| 221
+F Dreadqueen Helm S
+F Dreadqueen Mail S
+
+|| 222
+F Drilltusk Horn
+F Drilltusk Wrap
+
+|| 223
+F Drilltusk Horn S
+F Drilltusk Wrap S
+
+|| 224
+F Silverwind Helm
+F Silverwind Mail
+
+|| 225
+F Silverwind Helm S
+F Silverwind Mail S
+
+|| 226
+F Crystalbeard Helm
+F Crystalbeard Mail
+
+|| 227
+F Crystalbeard Helm S
+F Crystalbeard Mail S
+
+|| 228
+F Deadeye Hood
+F Deadeye Robe
+
+|| 229
+F Deadeye Hood S
+F Deadeye Robe S
+
+|| 230
+F Dreadking Helm
+F Dreadking Mail
+
+|| 231
+F Dreadking Helm S
+F Dreadking Mail S
+
+|| 232
+F Thunderlord Helm
+F Thunderlord Mail
+
+|| 233
+F Thunderlord Helm S
+F Thunderlord Mail S
+
+|| 234
+F Grimclaw Helm
+F Grimclaw Mail
+
+|| 235
+F Grimclaw Helm S
+F Grimclaw Mail S
+
+|| 236
+F Hellblade Helm
+F Hellblade Mail
+
+|| 237
+F Hellblade Helm S
+F Hellblade Mail S
+
+|| 238
+(None)
+F Zombie-kun Costume
+
+|| 239
+(None)
+F Happy Outfit
+
+|| 240
+F Treasure Crown J
+F Treasure Chest J
+
+|| 241
+F Pirate Bandanna J
+F Pirate Vest J
+
+|| 242
+F Legendary Helm J
+F Legendary Suit J
+
+|| 243
+F Greedy Skull J
+F Greedy Bones J
+
+|| 244
+(None)
+F Catboard
+
+|| 245
+F Monqlo Cap
+F Monqlo Shirt
+
+|| 246
+F Meowstar Helm
+F Meowstar Haori
+
+|| 247
+F Baby Tiga Hat
+F Baby Tiga Suit
+
+|| 248
+DUMMY
+DUMMY
+
+|| 249
+DUMMY
+DUMMY
+
+|| 250
+F Postman Beret
+F Postman Suit
+
+|| 251
+F Booyah Pompadour
+F Booyah Jacket
+
+|| 252
+F Sohoku Helmet
+F Sohoku Jersey
+
+|| 253
+(None)
+F Zombie-kun Wear
+
+|| 254
+(None)
+F Grandpaw D Guise
+
+|| 255
+(None)
+F Happy Guise
+
+|| 256
+F Dark Meowgic Hood
+F Dark Meowgic Robe
+
+|| 257
+F Booty Crown J
+F Booty Chest J
+
+|| 258
+F Buccaneer Bandanna J
+F Buccaneer Vest J
+
+|| 259
+F King Helm J
+F King Suit J
+
+|| 260
+F Avaricious Skull J
+F Avaricious Bones J
+
+|| 261
+(None)
+F Super Catboard
+
+|| 262
+F Monqlo Cap S
+F Monqlo Shirt S
+
+|| 263
+F Supreme Helm
+F Supreme Haori
+
+|| 264
+F Star Hat
+F Star Suit
+
+|| 265
+F Magical Hat
+F Magical Robe
+
+|| 266
+DUMMY
+DUMMY
+
+|| 267
+DUMMY
+DUMMY
+
+|| 268
+DUMMY
+DUMMY
+
+|| 269
+DUMMY
+DUMMY
+
+|| 270
+F Link Mask
+F Link Tunic
+
+|| 271
+F Fox Mic
+F Fox Suit
+
+|| 272
+F Mario Cap
+F Mario Overalls
+
+|| 273
+F Luigi Cap
+F Luigi Overalls
+
+|| 274
+(None)
+F Resetti Guise
+
+|| 275
+(None)
+F Isabelle Guise
+
+|| 276
+F Helm of Purrity
+F Armor of Purrity
+
+|| 277
+F Chun Chignon
+F Chun Attire
+
+|| 278
+(None)
+F Fancy Blanka Wear
+
+|| 279
+F Dante Wig
+F Dante Jacket
+
+|| 280
+F Mega Helmet
+F Mega Armor
+
+|| 281
+F Melodic Curls
+F Melodic Suit
+
+|| 282
+F Baby Tiga Hat S
+F Baby Tiga Suit S
+
+|| 283
+F Sunsnug Mask
+F Sunsnug Vest
+
+|| 284
+DUMMY
+DUMMY
+
+|| 285
+DUMMY
+DUMMY
+
+|| 286
+F Meowniac's Mask
+F Fan Top
+
+|| 287
+F Pep Squad Cap
+F Pep Squad Suit
+
+|| 288
+F Okami Hood
+F Divine Retribution
+
+|| 289
+F Arthur's Helm
+F Arthur's Armor

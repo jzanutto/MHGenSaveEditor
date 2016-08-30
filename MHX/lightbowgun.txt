@@ -1,0 +1,85 @@
+1 || Petrified Shooter || Scholarly Shooter
+2 || Dios Blaster || Cobalt Blaster
+3 || Demolition Gun || Ballista Demolisher
+4 || Obsidian Shooter || Relic Debonia
+5 || Mythical Three-Horn || Mythical Three-Evils
+6 || Blitz Bowgun || Blitz Kirin
+7 || Valkyrie Fire || Valkyrie Blaze
+8 || Blossomayhem || Prosperity
+9 || Tail String || Tail Catapult
+10 || Tail Blizzard || Tail Avalanche
+11 || Sawgun || Buzzawcannon
+12 || Kut-Ku Anger || Kut-Ku Counterattack
+13 || Raven Do || Wolf Do
+14 || Vile Do || Garuga Espringal
+15 || Hunter's Rifle || Sniper Shot
+16 || Mandible Blaster || Jawbreaker
+17 || Durambarrel || Aldebaran Dreadgun
+18 || Usurper's Crime || Despot's Wildfire
+19 || Rasasa Bowgun || Rebel Stopper
+20 || Seditious Shot || Vayu Sedition
+21 || Scale Tornado || Uroktor Vortex
+22 || Khezu Syringe || Khezu Hypo
+23 || Quill Burst || Plume Burst
+24 || Shotgun (White) || Bullet Rain (White)
+25 || Shotgun (Blood) || Bullet Rain (Blood)
+26 || Shotgun (Azure) || Bullet Rain (Azure)
+27 || Shotgun (Green) || Bullet Rain (Green)
+28 || Shotgun (Viper) || Bullet Rain (Viper)
+29 || Cross Bowgun || Cross Blitz
+30 || Desert Storm || Desert Tempest
+31 || Lava Storm || Magma Storm
+32 || Yakt Shooter || Wyvern Chaser
+33 || Shell Shooter || Insect Vulcan
+34 || Machine Strafer || Battalion Strafer
+35 || Tigrex Tank || Tigrex Wargun
+36 || Rathling Gun || Rathling Phoenix
+37 || Thundacrus || Thundacrus Rex
+38 || Royal Launcher || Royal Torrent
+39 || Hidden Eye || Night Owl
+40 || Striped Shell || Daimyo Pincer
+41 || Lobster Gun || King Lobster Gun
+42 || Maelstrom || Nebula Storm
+43 || Demon's Isle || Demon's Island
+44 || God's Isle || God's Island
+45 || Astalos Gun || Astalos Shocker
+46 || Giant's Blaster || Colossus's Blaster
+47 || Desolate Mist || Nifl Mist
+48 || Burning Answer || Glavenus Shot
+49 || Fäulnisschleuder || Wahnschleuder
+50 || La Lumière || Le Condamnateur
+51 || Icesteel Wasp || Daora's Hornet
+52 || Blessed Lamp || Cursed Lamp
+53 || Skeletal Bowgun || Mysterious Husk
+54 || Polarstar Shooter || Wondrous Star
+55 || Devil's Grin || Devil's Madness
+56 || Diregun "Dementia" || Doomgun "Dementia"
+57 || Rajang Barrage || Ten Thousand Volts
+58 || Demonlord Blaster || Demonlord Cannon
+59 || Silver Spartacus || Silver Semi-Auto
+60 || Gold Valkyrie || Gold Semi-Auto
+61 || Ukanlos Frost Bow || Ukanlos Skyshatterer
+62 || Wicked Needle || Needlestorm
+63 || Veiled Bell || High Plains Bell
+64 || Airship Gun || Airship Cannon
+65 || Black Parasol || Onyx Parasol
+66 || Angel Parasol || Elegant Parasol
+67 || Yukumo Light Bowgun || Yukumo Shooter
+68 || Yukumo Pureshot || Yukumo Spiritshot
+69 || Gourd Shot || Crookneck Shot
+70 || Fiossidare || Sparkling Blossom
+71 || Springnight Shot || Springnight Spawn
+72 || Beast Sniper || Beast Blaster
+73 || Felyne Ragdoll || Felyne Helldoll
+74 || Melynx Ragdoll || Melynx Helldoll
+75 || Kettleblower || Kettleblower Deluxe
+76 || Eldra Musket || Lost Musket
+77 || Black Belt Bowgun || Shihan Bowgun
+78 || Rathian Fire || Flaming Rose
+79 || Squall's Gaze || Daybreak's Gaze
+80 || Wicked Do || Deadeye Hunter
+81 || Dreadking Blaster || Dreadking's Bane
+82 || Thunder Lycan || Thunderclaw
+83 || Rudra Shot || Grimclaw Hunter
+84 || Infernal Solution || Brimstone Blaster
+85 || Arm Cannon || Arm Cannon X

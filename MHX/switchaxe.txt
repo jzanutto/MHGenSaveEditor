@@ -1,0 +1,87 @@
+1 || Petrified Axe || Scholarly Axe
+2 || Obsidian Axe || Relic Axe
+3 || Heavy Divider || Grunhart
+4 || Bolt Axe || High Bolt Axe
+5 || Volt Axe || Megavolt Axe
+6 || Reckless Hatchet || Vine Splitter
+7 || Arzuros Axe || Arzuros Revelax
+8 || Dios Axe || Grand Slasher
+9 || Demolition Axe || Brisant Demolisher
+10 || Motor Burst || Gigant Burst
+11 || Iron Axe || Araxxis
+12 || Elite Switch Axe || Czar Switch Axe
+13 || Notched Doom || Notched Legion
+14 || Notched Tyrant || Notched Oppressor
+15 || General's Strongaxe || Conqueress
+16 || Aksa Switch || Baran Defiance
+17 || Seditious Axe || Baraq Sedition
+18 || Dragonmaiden Axe || Grídr's Landmaker
+19 || Golden Crescent || Lune Shredder
+20 || The Shredder || The Power Shredder
+21 || Dream Captor || Somniferous Talon
+22 || Scissor Axe || Megatalon Shears
+23 || Exoskeleton Axe || Exoskeleton Chopper
+24 || Bone Axe || Daidalos Axe
+25 || Usurper's Downpour || Despot's Cloudburst
+26 || Power Gasher || Maximal Gasher
+27 || Vavoom Axe || Vavoom Verdict
+28 || Vavoom Vengeance || Vavoom Vindication
+29 || Rath Flame Splitter || Rath Blaze Splitter
+30 || Rathsplicer || Rathlagration
+31 || Hidden Axe || Night's Crescent
+32 || Ludroth Axe || Splish Splax
+33 || Finslash || Mega Rhipidon
+34 || Bruiser Axe || Chief Bruiser Axe
+35 || Wild Axe || Ground Dasher
+36 || Rex Slasher || Rex Gnasher
+37 || Fire Tempest || Flame Tempest
+38 || Flickaxe || Flick Helix
+39 || Flicker Axe || Paraflick Axe
+40 || Binding Roller || Vermilingua
+41 || Voltaic Axe || Voltaic End
+42 || Giant's Axe || Colossus's Axe
+43 || Fond Farewell || Parting Slice
+44 || Scorching Drafa || Glavenus's Grimace
+45 || Eisenleib || Eisengeist
+46 || La Guillotine || Le Sursis
+47 || Peal || Kirin Thunderpeal
+48 || Daora's Farasa || Daora's Janah
+49 || Waxglare Wand || Balor's Mirage
+50 || Undying Axe || Undying Light
+51 || Demonlord Axe || Demonlord Edge
+52 || Tyrannos || Terror Tyrannos
+53 || Saligia Vileaxe || Saligia Enderaxe
+54 || Skeletal Axe || Wicked Thorns
+55 || Polaris Skalvia || Cosmic Skalve
+56 || Akantor Switch Axe || Akantor Divider
+57 || Murkham Axe || Muronkham Axe
+58 || Dark Switch Axe || Black Harvest
+59 || Cloudburst Axe || Heavenly Rain
+60 || Worn Switch Axe || Weathered Switch Axe
+61 || Mundus Altus || Mundus Regius
+62 || Teostra's Arx || Teostra's Castle
+63 || Rough Edge || Soulbreaker
+64 || Black Axe || Onyx Axe
+65 || Yukumo Switch Axe || Yukumo Axe
+66 || Yukumo Pure Axe || Yukumo Spirit Axe
+67 || Gouda Axe || Aged Gouda Axe
+68 || Wycademy Axe || Versa Veil Axe
+69 || Arctic Ledge || Ledge Axe
+70 || Grim Cat || Grimmige Katze
+71 || Infernal Axe || Hellish Edge
+72 || Black Belt Axe || Shihan Axe
+73 || Crimson Axe || Redhelm Axe
+74 || Blackhare Axe || Snowbaron Axe
+75 || Pincher Axe || Stonefist Axe
+76 || Royal Axe || Dreadqueen Axe
+77 || Pierce Axe || Drilltusk Axe
+78 || Nightfall Axe || Silverwind Axe
+79 || Geode Axe || Crystalbeard Axe
+80 || Tomb Axe || Dreadking Axe
+81 || Raiden Axe || Thunderlord Axe
+82 || Seize Axe || Grimclaw Axe
+83 || Magma Axe || Hellblade Axe
+84 || Switch Fox || Special Corps Axe
+85 || Raikou Works || Raiden Works
+86 || Pirate Axe J || Buccaneer Axe J
+87 || DUMMY 1

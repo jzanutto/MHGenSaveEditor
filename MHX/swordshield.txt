@@ -1,0 +1,103 @@
+1 || Petrified Sword || Scholarly Sword
+2 || Obsidian Sword || Lustrous Cretecia
+3 || Dios Edge || Booming Barrage
+4 || Demolition Cutter || Struxion Demolisher
+5 || Hidden Edge || Flash in the Night
+6 || Frost Edge || Hi Frost Edge
+7 || Velocidrome Bite || Velocidrome Fang
+8 || Raven Blade || Wolf Blade
+9 || Spiked Circle || Paraspiked Circle
+10 || Shura Fan || Dream Duke Shura
+11 || Hunter's Knife || Fighter Sword
+12 || Odyssey Blade || Master Odyssey
+13 || Hunter's Dagger || Assassin's Dagger
+14 || Heavy Bang || Master Bang
+15 || Baumfäller || Dendrotomy
+16 || Dual Carapace || Dual Scissors
+17 || Lava Pick || Burly Beak
+18 || Soldier's Dagger || Commander's Dagger
+19 || Usurper's Firebolt || Despot's Crookbolt
+20 || Princess Rapier || Queen Rapier
+21 || Lunatic Rose || Lunatic Briar
+22 || Khezu Razor || Painful Razor
+23 || Serpent Bite || Serpent Cleaver
+24 || Viper Bite || Deathprize
+25 || Hydra Bite || Deadly Poison
+26 || Snake Bite || Snowy Cleaver
+27 || Naab Sword || Feral Fangs
+28 || Seditious Fang || Panja Sedition
+29 || Bone Kris || Chief Kris
+30 || Djinn || Blazing Falchion
+31 || Corona || Daze Eye
+32 || Golden Falchion || Golden Radius
+33 || Bone Pick || Osteon Pick
+34 || Rajang Club || Banned Rajang Club
+35 || Demonlord Mace || Demonlord Bludgeon
+36 || Weary Finsword || Sandman Finsword
+37 || Thunderbane || Frightbane
+38 || Ludroth's Nail || Ludroth Gear
+39 || Royal Claw || Royal Ludroth Claw
+40 || Rex Talon || Tigrex Sword
+41 || Gigas Club || Gigas Crusher
+42 || Bone Tabar || Ragdos Tabar
+43 || Sharkutter || Sharkgutter
+44 || Sharfin Sword || Sharfinisher
+45 || Lagia Sword || High Lagia Sword
+46 || Storm Sword || Takemikazuchi
+47 || Poison Axe || Poison Battleaxe
+48 || Brash Buddies || Cocky Comrades
+49 || Secta Nulo || Secta Unu
+50 || Secta Nulo (G) || Secta Unu (G)
+51 || Secta Nulo (R) || Secta Unu (R)
+52 || Celestial Sword  || Celestial Brand
+53 || Cross Sword || Dual Cross Brand
+54 || Verdant Rapier || Lightning Rapier
+55 || Giant's Tusk || Colossus's Tusk
+56 || Hana no Nagoriwo || Kurenawi Ougi
+57 || Burning Prominar || Glinting Glavenus
+58 || Sucher-Ankh || Jäger-Ankh
+59 || Le Détecteur || La Vérité
+60 || Kirin Bolt Ultimus || Kirin Bolt Maximus
+61 || Skeletal Blade || Infernal Horns
+62 || Astral Taurus || Enraged Taurus
+63 || Akantor Duo || Akantor Coup
+64 || Ukanlos Soul Hatchet || Ukanlos Skyhatchet
+65 || Alatreon Sword || Alatreon Star
+66 || Ominous Treasure || Heavenly Gale
+67 || Rusted Sword || Tarnished Sword
+68 || Eternal Strife || Eternal Hate
+69 || Icesteel Dagger || Daora's Razor
+70 || Worn Sword || Weathered Sword
+71 || Divine Exodus || Divine Insodus
+72 || Teostra's Spada || Teostra's Emblem
+73 || Tusk Gear || Skull's Wrath
+74 || Black Sword || Chrono Sword
+75 || Yukumo Cutter || Yukumo Hatchet
+76 || Yukumo Pure Cutter || Divine Yukumo Axe
+77 || Moofah Sword || Sleepy Moofah
+78 || Hero's Blade || Master's Blade
+79 || Dragonseal Sword || Dragontruth Sword
+80 || Kitchen Knife || Iron Chefblade
+81 || Chak Chak || Wagga Wagga
+82 || Floral Seif || Blooming Seif
+83 || Ninja Sword || Hi Ninja Sword
+84 || Shining Wyvern Blade || Shining Wyvernstruth
+85 || Catspaw || Catburglar
+86 || Melynx Tool || Melynx Gadget
+87 || Eldora Closure || Treasured Fedda
+88 || Black Belt Sword || Shihan Sword
+89 || Dreadqueen Rapier || Dreadqueen Rapier Rose
+90 || Drilltusk Truncheon || Official Truncheon
+91 || Nightfall Edge || Silverwind Edge
+92 || Geode Mace || Crystalbeard Mace
+93 || Hardened Edge || Deadeye Edge
+94 || Tomb Edge || Dreadking Edge
+95 || Thunderlord Firebolt || Thunderlord Crookbolt
+96 || Grimclaw Barb || Grimclaw Glare
+97 || Fiery Prominar || Magma Hellblade
+98 || Inazuma Works || Ikazuchi Works
+99 || Levindicator || CoroCoro Thunderbolt
+100 || Star Knight Sword || Eternal Sword
+101 || Hero's Sword || Master Sword
+102 || Falchion || Exalted Falchion
+103 || DUMMY 2

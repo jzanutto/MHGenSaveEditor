@@ -1,0 +1,93 @@
+1 || Petrified Horn || Scholarly Horn
+2 || Obsidian Horn || Relic Horn
+3 || Vadya Muse || Allysyl Muse
+4 || Seditious Warhorn || Maqam Sedition
+5 || Droth Drone || Droth Roar
+6 || Kut-Ku's Song || Kut-Ku Cantabile
+7 || Poisoned Capri || Crazed Melody
+8 || Larinoth Ocarina || Resonant Ocarina
+9 || Iron Horn || Wind Horn
+10 || Agnakdion || Brandoneon
+11 || Valkyrie Chordmaker || Queen's Chordmaker
+12 || Gold Chordmaker || Lunar Chordmaker
+13 || Metal Bagpipe || Great Bagpipe
+14 || Heavy Bagpipe || Fortissimo
+15 || Lagia Horn || Lagia Thunderpeal
+16 || Hidden Harmonic || Cry in the Night
+17 || Poli'ahu Pipe || Phenomenal Phlute
+18 || Type 63 Warmonica || Snarfonix
+19 || Sonic Glass || Glass Queen
+20 || Bone Horn || Hardened Bone Horn
+21 || Hunter's Horn || Native's Horn
+22 || Dios Bell || Napalm Bell
+23 || Demolition Chime || Timbral Demolisher
+24 || Danger Call || Dangerous Haar
+25 || Hazardous Call || Parahazard Call
+26 || Velociprey Balloon || Velociprey Horn
+27 || Velocidrome Balloon || Velocidrome Horn
+28 || Giaprey Balloon || Giaprey Horn
+29 || Khezu Horn || Khezu Flute
+30 || Bull Grunt || Wild Grunt
+31 || Zurogong Primo || Zurogong Secundo
+32 || Kecha Whappa || Kechachacha Whappa
+33 || Kecha Thumpa || Kecha Clanga
+34 || Striped Dragonga || Tigrex Horn
+35 || Brazengaita || Gigas Gaita
+36 || Demon Block || Vermillion Frog
+37 || Mountain Crusher || Mountain Echo
+38 || Shell Castanet || Colored Castanet
+39 || Vicello Nulo || Vicello Unu
+40 || Vicello Nulo (G) || Vicello Unu (G)
+41 || Vicello Nulo (R) || Vicello Unu (R)
+42 || Vicello Nulo (W) || Vicello Unu (W)
+43 || Usurper's Growl || Despot's Thunderclap
+44 || Fool's Harp || Jester's Harp
+45 || Lava Alphorn || Volcano Alphorn
+46 || Raven Shamisen || Wolf Shamisen
+47 || Vile Shamisen || Garuga Shamisen
+48 || Dodotto Horn || White Dodotto Horn
+49 || Emerald Flap || Lightning Flap
+50 || Giant's Koto || Colossus's Koto
+51 || Poetic Bell || Summoning Bell
+52 || Hell Horn || Glavenus Horn
+53 || Kummerklang || Gramklang
+54 || La Sépulture || La Joie
+55 || Blessed Ocarina || Cursed Ocarina
+56 || Teostra's Tiple || Teostra's Orphée
+57 || Denden Daiko || Denden Doomsounder
+58 || Skeletal Melody || Wicked Melody
+59 || Polaris Wraith || Cosmic Wraith
+60 || Akantor Horn || Akantor Dark Melody
+61 || Ukanlos Horned Flute || Ukanlos Skysinger
+62 || Autumn Lute || Harvest Lute
+63 || Worn Horn || Weathered Horn
+64 || Avenir's Music Box || Eternal Music Box
+65 || Daora's Taus || Daora's Baphophone
+66 || Black Lute || Onyx Lute
+67 || Yukumo Flute || Yukumo Horn
+68 || Yukumo Pureflute || Yukumo Spirit Flute
+69 || Bherna Chime || Blissful Chime
+70 || Airship Horn || Grand Airship Horn
+71 || Handmade Frog || Handcrafted Frog
+72 || Magia Charm || Magia Charmbell
+73 || Swell Shell || Vertex Shell
+74 || Azumand Wind || Fern Fan
+75 || Poison Fungasax || Toxic Fungasax
+76 || Cornupion || Webbed Cornupion
+77 || Crimson Horn || Crimson Great Horn
+78 || Royal Horn || Dreadqueen Horn
+79 || Pierce Horn || Drilltusk Horn
+80 || Nightfall Horn || Silverwind Horn
+81 || Geode Horn || Crystalbeard Horn
+82 || Hardened Horn || Deadeye Horn
+83 || Tomb Horn || Dreadking Horn
+84 || Raiden Horn || Thunderlord Horn
+85 || Seize Horn || Grimclaw Horn
+86 || Magma Horn || Hellblade Horn
+87 || Blitz Works || Giga Blitz Works
+88 || DUMMY
+89 || DUMMY
+90 || DUMMY
+91 || DUMMY
+92 || Megaphone || Gigaphone
+93 || DUMMY 1
