@@ -1,0 +1,6 @@
+This is a dotnet fork of the APMMHXSaveEditor (so credit to ezapm). Yes, it runs on Mac (and probably Linux).
+
+Really I'm only concerned with charm editing for speed running purposes. This fork only does command line interaction and listing charms.
+Soon it'll incorporate command line charm creation or editing. Unfortunately, adding and modifying things like armor and weapons is beyond my use cases for now.
+
+If someone wants these features, please let me know. As far as GUIs go, there's a possibility of making this into a web platform service, but that's not planned at this time.
